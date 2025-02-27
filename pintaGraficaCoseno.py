@@ -10,7 +10,7 @@ plt.figure(figsize=(8, 6))
 plt.hist(df_similitud["Similitud Coseno"], bins=30, edgecolor='black', alpha=0.7)
 plt.axvline(0.7, color='r', linestyle='dashed', linewidth=1, label="Threshold 0.7")
 plt.axvline(0.5, color='b', linestyle='dashed', linewidth=1, label="Threshold 0.5")
-plt.axvline(0.4, color='g', linestyle='dashed', linewidth=1, label="Threshold 0.4")
+#plt.axvline(0.4, color='g', linestyle='dashed', linewidth=1, label="Threshold 0.4")
 
 plt.xlabel("Cosine Similarity")
 plt.ylabel("Frequency")

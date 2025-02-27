@@ -1,334 +1,334 @@
-Smaller Term;Larger Term;Cosine Similarity
-hyperinflated lungs;pulmonary edema;0.56126475
-hyperinflated lungs;hyperinflated lungs;1.0000001
-hyperinflated lungs;increased retrosternal airspace;0.1718154
-hyperinflated lungs;mild spine dextrocurvature;0.09048207
-hyperinflated lungs;chronic pleural-parenchymal scarring;0.22629936
-hyperinflated lungs;obstructive pulmonary disease and emphysema;0.46289226
-hyperinflated lungs;streaky bibasilar airspace opacities;0.077636495
-hyperinflated lungs;vagal nerve stimulator;0.18677635
-hyperinflated lungs;thoracic aortic atherosclerotic calcifications;0.28164178
-hyperinflated lungs;XXXX atelectasis or scar is noted within the left midlung;0.1560964
-hyperinflated lungs;tortuous thoracic aorta;0.3396366
-hyperinflated lungs;anterior mediastinal mass;0.2873932
-hyperinflated lungs;aortic calcifications;0.22809009
-hyperinflated lungs;calcified hilar XXXX;0.1514642
-hyperinflated lungs;degenerative changes thoracic spine;0.18960091
-hyperinflated lungs;right-sided pleural effusion;0.33876258
-hyperinflated lungs;vague opacities in the right upper lobe;0.09791857
-hyperinflated lungs;calcified granuloma left upper lobe;0.21739505
-hyperinflated lungs;cardiomegaly;0.24686894
-hyperinflated lungs;obstructive lung disease;0.49472815
-hyperinflated lungs;air space disease and/or atelectasis;0.374749
-hyperinflated lungs;XXXX streaky opacity in the left base;0.07759706
-hyperinflated lungs;streaky opacity in the left base;0.033742163
-hyperinflated lungs;calcified hilar calcification;0.12748665
-hyperinflated lungs;bilateral bibasilar airspace opacities;0.07873731
-hyperinflated lungs;emphysema;0.5051528
-hyperinflated lungs;calcified left hilar lymph node;0.22584721
-hyperinflated lungs;diffuse right lower lobe airspace opacity;0.18842822
-hyperinflated lungs;left lower lobe air space opacity;0.24313267
-hyperinflated lungs;atelectasis;0.14910565
-hyperinflated lungs;postop changes of CABG with mild cardiomegaly;0.11341229
-hyperinflated lungs;infiltrate in the right lower lobe;0.23507407
-hyperinflated lungs;multilevel degenerative changes in the spine;0.058632124
-hyperinflated lungs;degenerative endplate changes of the spine;0.059245355
-hyperinflated lungs;calcified hilar lymph node;0.23704296
-hyperinflated lungs;pleural effusion;0.39091206
-hyperinflated lungs;small left-sided pleural effusion;0.3193515
-flattened diaphragm;pulmonary edema;0.3596382
-flattened diaphragm;hyperinflated lungs;0.33685887
-flattened diaphragm;increased retrosternal airspace;0.07747749
-flattened diaphragm;mild spine dextrocurvature;0.18283355
-flattened diaphragm;chronic pleural-parenchymal scarring;0.13451158
-flattened diaphragm;obstructive pulmonary disease and emphysema;0.18173842
-flattened diaphragm;streaky bibasilar airspace opacities;0.13035218
-flattened diaphragm;vagal nerve stimulator;0.19726427
-flattened diaphragm;thoracic aortic atherosclerotic calcifications;0.17176682
-flattened diaphragm;XXXX atelectasis or scar is noted within the left midlung;0.14428332
-flattened diaphragm;tortuous thoracic aorta;0.33744895
-flattened diaphragm;anterior mediastinal mass;0.20084968
-flattened diaphragm;aortic calcifications;0.15616348
-flattened diaphragm;calcified hilar XXXX;0.20601672
-flattened diaphragm;degenerative changes thoracic spine;0.18624106
-flattened diaphragm;right-sided pleural effusion;0.26425976
-flattened diaphragm;vague opacities in the right upper lobe;0.18939877
-flattened diaphragm;calcified granuloma left upper lobe;0.22481115
-flattened diaphragm;cardiomegaly;0.22273551
-flattened diaphragm;obstructive lung disease;0.23188865
-flattened diaphragm;air space disease and/or atelectasis;0.15920198
-flattened diaphragm;XXXX streaky opacity in the left base;0.14588392
-flattened diaphragm;streaky opacity in the left base;0.1518844
-flattened diaphragm;calcified hilar calcification;0.21131206
-flattened diaphragm;bilateral bibasilar airspace opacities;0.10890905
-flattened diaphragm;emphysema;0.27558923
-flattened diaphragm;calcified left hilar lymph node;0.16395408
-flattened diaphragm;diffuse right lower lobe airspace opacity;0.14835271
-flattened diaphragm;left lower lobe air space opacity;0.23388612
-flattened diaphragm;atelectasis;0.19881447
-flattened diaphragm;postop changes of CABG with mild cardiomegaly;0.14611647
-flattened diaphragm;infiltrate in the right lower lobe;0.25102097
-flattened diaphragm;multilevel degenerative changes in the spine;0.105524436
-flattened diaphragm;degenerative endplate changes of the spine;0.1690667
-flattened diaphragm;calcified hilar lymph node;0.18652844
-flattened diaphragm;pleural effusion;0.26339847
-flattened diaphragm;small left-sided pleural effusion;0.2664863
-increased retrosternal airspace;pulmonary edema;0.15694818
-increased retrosternal airspace;hyperinflated lungs;0.17181544
-increased retrosternal airspace;increased retrosternal airspace;1.0
-increased retrosternal airspace;mild spine dextrocurvature;-0.027877815
-increased retrosternal airspace;chronic pleural-parenchymal scarring;-0.015414059
-increased retrosternal airspace;obstructive pulmonary disease and emphysema;0.20873441
-increased retrosternal airspace;streaky bibasilar airspace opacities;0.57776135
-increased retrosternal airspace;vagal nerve stimulator;0.003026938
-increased retrosternal airspace;thoracic aortic atherosclerotic calcifications;0.014923918
-increased retrosternal airspace;XXXX atelectasis or scar is noted within the left midlung;0.07898393
-increased retrosternal airspace;tortuous thoracic aorta;0.057127345
-increased retrosternal airspace;anterior mediastinal mass;0.12486036
-increased retrosternal airspace;aortic calcifications;0.025823021
-increased retrosternal airspace;calcified hilar XXXX;0.027481308
-increased retrosternal airspace;degenerative changes thoracic spine;0.013662692
-increased retrosternal airspace;right-sided pleural effusion;0.021883503
-increased retrosternal airspace;vague opacities in the right upper lobe;0.2091638
-increased retrosternal airspace;calcified granuloma left upper lobe;0.0043147653
-increased retrosternal airspace;cardiomegaly;0.00024951063
-increased retrosternal airspace;obstructive lung disease;0.1980769
-increased retrosternal airspace;air space disease and/or atelectasis;0.24922904
-increased retrosternal airspace;XXXX streaky opacity in the left base;0.17588921
-increased retrosternal airspace;streaky opacity in the left base;0.17076871
-increased retrosternal airspace;calcified hilar calcification;-0.008283295
-increased retrosternal airspace;bilateral bibasilar airspace opacities;0.5472974
-increased retrosternal airspace;emphysema;0.15937266
-increased retrosternal airspace;calcified left hilar lymph node;-0.039619103
-increased retrosternal airspace;diffuse right lower lobe airspace opacity;0.4032381
-increased retrosternal airspace;left lower lobe air space opacity;0.28363296
-increased retrosternal airspace;atelectasis;0.07033301
-increased retrosternal airspace;postop changes of CABG with mild cardiomegaly;0.05864197
-increased retrosternal airspace;infiltrate in the right lower lobe;0.22739047
-increased retrosternal airspace;multilevel degenerative changes in the spine;0.05477129
-increased retrosternal airspace;degenerative endplate changes of the spine;0.017887138
-increased retrosternal airspace;calcified hilar lymph node;-0.022285547
-increased retrosternal airspace;pleural effusion;0.013333288
-increased retrosternal airspace;small left-sided pleural effusion;-0.0051889345
-pulmonary edema due to acute respiratory distress syndrome (ARDS);pulmonary edema;0.7418212
-pulmonary edema due to acute respiratory distress syndrome (ARDS);hyperinflated lungs;0.43437007
-pulmonary edema due to acute respiratory distress syndrome (ARDS);increased retrosternal airspace;0.1869979
-pulmonary edema due to acute respiratory distress syndrome (ARDS);mild spine dextrocurvature;0.027410692
-pulmonary edema due to acute respiratory distress syndrome (ARDS);chronic pleural-parenchymal scarring;0.13918188
-pulmonary edema due to acute respiratory distress syndrome (ARDS);obstructive pulmonary disease and emphysema;0.53588593
-pulmonary edema due to acute respiratory distress syndrome (ARDS);streaky bibasilar airspace opacities;0.0963621
-pulmonary edema due to acute respiratory distress syndrome (ARDS);vagal nerve stimulator;0.0719335
-pulmonary edema due to acute respiratory distress syndrome (ARDS);thoracic aortic atherosclerotic calcifications;0.22948869
-pulmonary edema due to acute respiratory distress syndrome (ARDS);XXXX atelectasis or scar is noted within the left midlung;0.18936703
-pulmonary edema due to acute respiratory distress syndrome (ARDS);tortuous thoracic aorta;0.31811526
-pulmonary edema due to acute respiratory distress syndrome (ARDS);anterior mediastinal mass;0.14412646
-pulmonary edema due to acute respiratory distress syndrome (ARDS);aortic calcifications;0.18801294
-pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar XXXX;0.06847505
-pulmonary edema due to acute respiratory distress syndrome (ARDS);degenerative changes thoracic spine;0.14654955
-pulmonary edema due to acute respiratory distress syndrome (ARDS);right-sided pleural effusion;0.22994825
-pulmonary edema due to acute respiratory distress syndrome (ARDS);vague opacities in the right upper lobe;0.066263504
-pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified granuloma left upper lobe;0.06672274
-pulmonary edema due to acute respiratory distress syndrome (ARDS);cardiomegaly;0.10397129
-pulmonary edema due to acute respiratory distress syndrome (ARDS);obstructive lung disease;0.46806234
-pulmonary edema due to acute respiratory distress syndrome (ARDS);air space disease and/or atelectasis;0.37446588
-pulmonary edema due to acute respiratory distress syndrome (ARDS);XXXX streaky opacity in the left base;0.04484103
-pulmonary edema due to acute respiratory distress syndrome (ARDS);streaky opacity in the left base;0.004151823
-pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar calcification;0.004043903
-pulmonary edema due to acute respiratory distress syndrome (ARDS);bilateral bibasilar airspace opacities;0.10380726
-pulmonary edema due to acute respiratory distress syndrome (ARDS);emphysema;0.45734683
-pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified left hilar lymph node;0.08366412
-pulmonary edema due to acute respiratory distress syndrome (ARDS);diffuse right lower lobe airspace opacity;0.129221
-pulmonary edema due to acute respiratory distress syndrome (ARDS);left lower lobe air space opacity;0.14924578
-pulmonary edema due to acute respiratory distress syndrome (ARDS);atelectasis;0.18593237
-pulmonary edema due to acute respiratory distress syndrome (ARDS);postop changes of CABG with mild cardiomegaly;0.11410376
-pulmonary edema due to acute respiratory distress syndrome (ARDS);infiltrate in the right lower lobe;0.14949173
-pulmonary edema due to acute respiratory distress syndrome (ARDS);multilevel degenerative changes in the spine;-0.024833499
-pulmonary edema due to acute respiratory distress syndrome (ARDS);degenerative endplate changes of the spine;0.02579628
-pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar lymph node;0.08014567
-pulmonary edema due to acute respiratory distress syndrome (ARDS);pleural effusion;0.2990088
-pulmonary edema due to acute respiratory distress syndrome (ARDS);small left-sided pleural effusion;0.19849959
-spine dextrocurvature;pulmonary edema;0.09380332
-spine dextrocurvature;hyperinflated lungs;0.079204075
-spine dextrocurvature;increased retrosternal airspace;-0.040418565
-spine dextrocurvature;mild spine dextrocurvature;0.963819
-spine dextrocurvature;chronic pleural-parenchymal scarring;0.19808269
-spine dextrocurvature;obstructive pulmonary disease and emphysema;-0.028596193
-spine dextrocurvature;streaky bibasilar airspace opacities;-0.06910599
-spine dextrocurvature;vagal nerve stimulator;0.27075946
-spine dextrocurvature;thoracic aortic atherosclerotic calcifications;0.1862609
-spine dextrocurvature;XXXX atelectasis or scar is noted within the left midlung;0.27531445
-spine dextrocurvature;tortuous thoracic aorta;0.32029957
-spine dextrocurvature;anterior mediastinal mass;0.219677
-spine dextrocurvature;aortic calcifications;0.22083834
-spine dextrocurvature;calcified hilar XXXX;0.08367376
-spine dextrocurvature;degenerative changes thoracic spine;0.48011667
-spine dextrocurvature;right-sided pleural effusion;0.138646
-spine dextrocurvature;vague opacities in the right upper lobe;0.22186261
-spine dextrocurvature;calcified granuloma left upper lobe;0.13810223
-spine dextrocurvature;cardiomegaly;0.30566013
-spine dextrocurvature;obstructive lung disease;0.014765339
-spine dextrocurvature;air space disease and/or atelectasis;0.06945323
-spine dextrocurvature;XXXX streaky opacity in the left base;0.16864485
-spine dextrocurvature;streaky opacity in the left base;0.13051207
-spine dextrocurvature;calcified hilar calcification;0.036765195
-spine dextrocurvature;bilateral bibasilar airspace opacities;-0.04865501
-spine dextrocurvature;emphysema;0.10923259
-spine dextrocurvature;calcified left hilar lymph node;0.11486469
-spine dextrocurvature;diffuse right lower lobe airspace opacity;0.088918805
-spine dextrocurvature;left lower lobe air space opacity;0.13958502
-spine dextrocurvature;atelectasis;0.22701065
-spine dextrocurvature;postop changes of CABG with mild cardiomegaly;0.30607504
-spine dextrocurvature;infiltrate in the right lower lobe;0.25958547
-spine dextrocurvature;multilevel degenerative changes in the spine;0.5554341
-spine dextrocurvature;degenerative endplate changes of the spine;0.5628424
-spine dextrocurvature;calcified hilar lymph node;0.09550059
-spine dextrocurvature;pleural effusion;0.11362445
-spine dextrocurvature;small left-sided pleural effusion;0.1177807
-bronchiectasis;pulmonary edema;0.40177572
-bronchiectasis;hyperinflated lungs;0.34455585
-bronchiectasis;increased retrosternal airspace;0.037058856
-bronchiectasis;mild spine dextrocurvature;0.113107465
-bronchiectasis;chronic pleural-parenchymal scarring;0.23151827
-bronchiectasis;obstructive pulmonary disease and emphysema;0.40753007
-bronchiectasis;streaky bibasilar airspace opacities;0.06410164
-bronchiectasis;vagal nerve stimulator;0.111979954
-bronchiectasis;thoracic aortic atherosclerotic calcifications;0.13111703
-bronchiectasis;XXXX atelectasis or scar is noted within the left midlung;0.27471033
-bronchiectasis;tortuous thoracic aorta;0.25508532
-bronchiectasis;anterior mediastinal mass;0.2606848
-bronchiectasis;aortic calcifications;0.12749457
-bronchiectasis;calcified hilar XXXX;0.20523629
-bronchiectasis;degenerative changes thoracic spine;0.19806372
-bronchiectasis;right-sided pleural effusion;0.24787544
-bronchiectasis;vague opacities in the right upper lobe;0.18552107
-bronchiectasis;calcified granuloma left upper lobe;0.30847538
-bronchiectasis;cardiomegaly;0.298744
-bronchiectasis;obstructive lung disease;0.40404755
-bronchiectasis;air space disease and/or atelectasis;0.28709096
-bronchiectasis;XXXX streaky opacity in the left base;0.19189438
-bronchiectasis;streaky opacity in the left base;0.16435109
-bronchiectasis;calcified hilar calcification;0.12686227
-bronchiectasis;bilateral bibasilar airspace opacities;0.028594987
-bronchiectasis;emphysema;0.48284006
-bronchiectasis;calcified left hilar lymph node;0.18993664
-bronchiectasis;diffuse right lower lobe airspace opacity;0.052561924
-bronchiectasis;left lower lobe air space opacity;0.13291718
-bronchiectasis;atelectasis;0.3105226
-bronchiectasis;postop changes of CABG with mild cardiomegaly;0.12374547
-bronchiectasis;infiltrate in the right lower lobe;0.30004448
-bronchiectasis;multilevel degenerative changes in the spine;0.092529796
-bronchiectasis;degenerative endplate changes of the spine;0.12577417
-bronchiectasis;calcified hilar lymph node;0.17624119
-bronchiectasis;pleural effusion;0.2966081
-bronchiectasis;small left-sided pleural effusion;0.2585077
-fibrotic scarring;pulmonary edema;0.16959545
-fibrotic scarring;hyperinflated lungs;0.25097108
-fibrotic scarring;increased retrosternal airspace;-0.028754205
-fibrotic scarring;mild spine dextrocurvature;0.25769073
-fibrotic scarring;chronic pleural-parenchymal scarring;0.645201
-fibrotic scarring;obstructive pulmonary disease and emphysema;0.13726152
-fibrotic scarring;streaky bibasilar airspace opacities;-0.10104108
-fibrotic scarring;vagal nerve stimulator;0.11885473
-fibrotic scarring;thoracic aortic atherosclerotic calcifications;0.16489348
-fibrotic scarring;XXXX atelectasis or scar is noted within the left midlung;0.40665942
-fibrotic scarring;tortuous thoracic aorta;0.24082232
-fibrotic scarring;anterior mediastinal mass;0.20899412
-fibrotic scarring;aortic calcifications;0.161415
-fibrotic scarring;calcified hilar XXXX;0.20290518
-fibrotic scarring;degenerative changes thoracic spine;0.1970046
-fibrotic scarring;right-sided pleural effusion;0.28071868
-fibrotic scarring;vague opacities in the right upper lobe;0.10612823
-fibrotic scarring;calcified granuloma left upper lobe;0.27520242
-fibrotic scarring;cardiomegaly;0.29861668
-fibrotic scarring;obstructive lung disease;0.19877365
-fibrotic scarring;air space disease and/or atelectasis;0.14117843
-fibrotic scarring;XXXX streaky opacity in the left base;0.15091857
-fibrotic scarring;streaky opacity in the left base;0.11899982
-fibrotic scarring;calcified hilar calcification;0.21087459
-fibrotic scarring;bilateral bibasilar airspace opacities;-0.13785195
-fibrotic scarring;emphysema;0.27127475
-fibrotic scarring;calcified left hilar lymph node;0.31224912
-fibrotic scarring;diffuse right lower lobe airspace opacity;0.10928479
-fibrotic scarring;left lower lobe air space opacity;0.12231383
-fibrotic scarring;atelectasis;0.18613827
-fibrotic scarring;postop changes of CABG with mild cardiomegaly;0.16956842
-fibrotic scarring;infiltrate in the right lower lobe;0.2393165
-fibrotic scarring;multilevel degenerative changes in the spine;0.123413086
-fibrotic scarring;degenerative endplate changes of the spine;0.2347031
-fibrotic scarring;calcified hilar lymph node;0.30614138
-fibrotic scarring;pleural effusion;0.3556421
-fibrotic scarring;small left-sided pleural effusion;0.30220965
-infiltrate in the right middle lobe;pulmonary edema;0.26709723
-infiltrate in the right middle lobe;hyperinflated lungs;0.2145242
-infiltrate in the right middle lobe;increased retrosternal airspace;0.2331959
-infiltrate in the right middle lobe;mild spine dextrocurvature;0.21604413
-infiltrate in the right middle lobe;chronic pleural-parenchymal scarring;0.19644046
-infiltrate in the right middle lobe;obstructive pulmonary disease and emphysema;0.16309667
-infiltrate in the right middle lobe;streaky bibasilar airspace opacities;0.20999376
-infiltrate in the right middle lobe;vagal nerve stimulator;0.15028508
-infiltrate in the right middle lobe;thoracic aortic atherosclerotic calcifications;0.11095558
-infiltrate in the right middle lobe;XXXX atelectasis or scar is noted within the left midlung;0.49173844
-infiltrate in the right middle lobe;tortuous thoracic aorta;0.26427376
-infiltrate in the right middle lobe;anterior mediastinal mass;0.38163763
-infiltrate in the right middle lobe;aortic calcifications;0.13452087
-infiltrate in the right middle lobe;calcified hilar XXXX;0.19528648
-infiltrate in the right middle lobe;degenerative changes thoracic spine;0.1530869
-infiltrate in the right middle lobe;right-sided pleural effusion;0.42794043
-infiltrate in the right middle lobe;vague opacities in the right upper lobe;0.65002334
-infiltrate in the right middle lobe;calcified granuloma left upper lobe;0.4716187
-infiltrate in the right middle lobe;cardiomegaly;0.18644327
-infiltrate in the right middle lobe;obstructive lung disease;0.23950079
-infiltrate in the right middle lobe;air space disease and/or atelectasis;0.18243593
-infiltrate in the right middle lobe;XXXX streaky opacity in the left base;0.27566388
-infiltrate in the right middle lobe;streaky opacity in the left base;0.24808712
-infiltrate in the right middle lobe;calcified hilar calcification;0.14794782
-infiltrate in the right middle lobe;bilateral bibasilar airspace opacities;0.24876957
-infiltrate in the right middle lobe;emphysema;0.24139035
-infiltrate in the right middle lobe;calcified left hilar lymph node;0.34773314
-infiltrate in the right middle lobe;diffuse right lower lobe airspace opacity;0.48393965
-infiltrate in the right middle lobe;left lower lobe air space opacity;0.3923712
-infiltrate in the right middle lobe;atelectasis;0.33711886
-infiltrate in the right middle lobe;postop changes of CABG with mild cardiomegaly;0.13190648
-infiltrate in the right middle lobe;infiltrate in the right lower lobe;0.97466034
-infiltrate in the right middle lobe;multilevel degenerative changes in the spine;0.18699682
-infiltrate in the right middle lobe;degenerative endplate changes of the spine;0.20908777
-infiltrate in the right middle lobe;calcified hilar lymph node;0.3011697
-infiltrate in the right middle lobe;pleural effusion;0.32852274
-infiltrate in the right middle lobe;small left-sided pleural effusion;0.42529258
-lumbar degenerative disc disease;pulmonary edema;0.09076304
-lumbar degenerative disc disease;hyperinflated lungs;0.10388833
-lumbar degenerative disc disease;increased retrosternal airspace;-0.014208
-lumbar degenerative disc disease;mild spine dextrocurvature;0.46537516
-lumbar degenerative disc disease;chronic pleural-parenchymal scarring;0.18679205
-lumbar degenerative disc disease;obstructive pulmonary disease and emphysema;0.06773423
-lumbar degenerative disc disease;streaky bibasilar airspace opacities;-0.025613204
-lumbar degenerative disc disease;vagal nerve stimulator;0.079903394
-lumbar degenerative disc disease;thoracic aortic atherosclerotic calcifications;0.12217677
-lumbar degenerative disc disease;XXXX atelectasis or scar is noted within the left midlung;0.26820123
-lumbar degenerative disc disease;tortuous thoracic aorta;0.14168099
-lumbar degenerative disc disease;anterior mediastinal mass;0.20472461
-lumbar degenerative disc disease;aortic calcifications;0.07200884
-lumbar degenerative disc disease;calcified hilar XXXX;-0.0027219579
-lumbar degenerative disc disease;degenerative changes thoracic spine;0.59845257
-lumbar degenerative disc disease;right-sided pleural effusion;0.12490293
-lumbar degenerative disc disease;vague opacities in the right upper lobe;0.15435596
-lumbar degenerative disc disease;calcified granuloma left upper lobe;0.17505957
-lumbar degenerative disc disease;cardiomegaly;0.094116606
-lumbar degenerative disc disease;obstructive lung disease;0.15246421
-lumbar degenerative disc disease;air space disease and/or atelectasis;0.1991401
-lumbar degenerative disc disease;XXXX streaky opacity in the left base;0.14213878
-lumbar degenerative disc disease;streaky opacity in the left base;0.10954113
-lumbar degenerative disc disease;calcified hilar calcification;-0.027304843
-lumbar degenerative disc disease;bilateral bibasilar airspace opacities;-0.050500453
-lumbar degenerative disc disease;emphysema;0.10210054
-lumbar degenerative disc disease;calcified left hilar lymph node;0.12681653
-lumbar degenerative disc disease;diffuse right lower lobe airspace opacity;0.15200111
-lumbar degenerative disc disease;left lower lobe air space opacity;0.107829064
-lumbar degenerative disc disease;atelectasis;0.11625718
-lumbar degenerative disc disease;postop changes of CABG with mild cardiomegaly;0.17222285
-lumbar degenerative disc disease;infiltrate in the right lower lobe;0.16291052
-lumbar degenerative disc disease;multilevel degenerative changes in the spine;0.5777496
-lumbar degenerative disc disease;degenerative endplate changes of the spine;0.5616597
-lumbar degenerative disc disease;calcified hilar lymph node;0.08963832
-lumbar degenerative disc disease;pleural effusion;0.13760531
-lumbar degenerative disc disease;small left-sided pleural effusion;0.12036085
+Smaller Term;Larger Term;Cosine Similarity;Passes 0.7;Passes 0.5
+hyperinflated lungs;pulmonary edema;0.56126475;False;True
+hyperinflated lungs;hyperinflated lungs;1.0000001;True;True
+hyperinflated lungs;increased retrosternal airspace;0.1718154;False;False
+hyperinflated lungs;mild spine dextrocurvature;0.09048207;False;False
+hyperinflated lungs;chronic pleural-parenchymal scarring;0.22629936;False;False
+hyperinflated lungs;obstructive pulmonary disease and emphysema;0.46289226;False;False
+hyperinflated lungs;streaky bibasilar airspace opacities;0.077636495;False;False
+hyperinflated lungs;vagal nerve stimulator;0.18677635;False;False
+hyperinflated lungs;thoracic aortic atherosclerotic calcifications;0.28164178;False;False
+hyperinflated lungs;XXXX atelectasis or scar is noted within the left midlung;0.1560964;False;False
+hyperinflated lungs;tortuous thoracic aorta;0.3396366;False;False
+hyperinflated lungs;anterior mediastinal mass;0.2873932;False;False
+hyperinflated lungs;aortic calcifications;0.22809009;False;False
+hyperinflated lungs;calcified hilar XXXX;0.1514642;False;False
+hyperinflated lungs;degenerative changes thoracic spine;0.18960091;False;False
+hyperinflated lungs;right-sided pleural effusion;0.33876258;False;False
+hyperinflated lungs;vague opacities in the right upper lobe;0.09791857;False;False
+hyperinflated lungs;calcified granuloma left upper lobe;0.21739505;False;False
+hyperinflated lungs;cardiomegaly;0.24686894;False;False
+hyperinflated lungs;obstructive lung disease;0.49472815;False;False
+hyperinflated lungs;air space disease and/or atelectasis;0.374749;False;False
+hyperinflated lungs;XXXX streaky opacity in the left base;0.07759706;False;False
+hyperinflated lungs;streaky opacity in the left base;0.033742163;False;False
+hyperinflated lungs;calcified hilar calcification;0.12748665;False;False
+hyperinflated lungs;bilateral bibasilar airspace opacities;0.07873731;False;False
+hyperinflated lungs;emphysema;0.5051528;False;True
+hyperinflated lungs;calcified left hilar lymph node;0.22584721;False;False
+hyperinflated lungs;diffuse right lower lobe airspace opacity;0.18842822;False;False
+hyperinflated lungs;left lower lobe air space opacity;0.24313267;False;False
+hyperinflated lungs;atelectasis;0.14910565;False;False
+hyperinflated lungs;postop changes of CABG with mild cardiomegaly;0.11341229;False;False
+hyperinflated lungs;infiltrate in the right lower lobe;0.23507407;False;False
+hyperinflated lungs;multilevel degenerative changes in the spine;0.058632124;False;False
+hyperinflated lungs;degenerative endplate changes of the spine;0.059245355;False;False
+hyperinflated lungs;calcified hilar lymph node;0.23704296;False;False
+hyperinflated lungs;pleural effusion;0.39091206;False;False
+hyperinflated lungs;small left-sided pleural effusion;0.3193515;False;False
+flattened diaphragm;pulmonary edema;0.3596382;False;False
+flattened diaphragm;hyperinflated lungs;0.33685887;False;False
+flattened diaphragm;increased retrosternal airspace;0.07747749;False;False
+flattened diaphragm;mild spine dextrocurvature;0.18283355;False;False
+flattened diaphragm;chronic pleural-parenchymal scarring;0.13451158;False;False
+flattened diaphragm;obstructive pulmonary disease and emphysema;0.18173842;False;False
+flattened diaphragm;streaky bibasilar airspace opacities;0.13035218;False;False
+flattened diaphragm;vagal nerve stimulator;0.19726427;False;False
+flattened diaphragm;thoracic aortic atherosclerotic calcifications;0.17176682;False;False
+flattened diaphragm;XXXX atelectasis or scar is noted within the left midlung;0.14428332;False;False
+flattened diaphragm;tortuous thoracic aorta;0.33744895;False;False
+flattened diaphragm;anterior mediastinal mass;0.20084968;False;False
+flattened diaphragm;aortic calcifications;0.15616348;False;False
+flattened diaphragm;calcified hilar XXXX;0.20601672;False;False
+flattened diaphragm;degenerative changes thoracic spine;0.18624106;False;False
+flattened diaphragm;right-sided pleural effusion;0.26425976;False;False
+flattened diaphragm;vague opacities in the right upper lobe;0.18939877;False;False
+flattened diaphragm;calcified granuloma left upper lobe;0.22481115;False;False
+flattened diaphragm;cardiomegaly;0.22273551;False;False
+flattened diaphragm;obstructive lung disease;0.23188865;False;False
+flattened diaphragm;air space disease and/or atelectasis;0.15920198;False;False
+flattened diaphragm;XXXX streaky opacity in the left base;0.14588392;False;False
+flattened diaphragm;streaky opacity in the left base;0.1518844;False;False
+flattened diaphragm;calcified hilar calcification;0.21131206;False;False
+flattened diaphragm;bilateral bibasilar airspace opacities;0.10890905;False;False
+flattened diaphragm;emphysema;0.27558923;False;False
+flattened diaphragm;calcified left hilar lymph node;0.16395408;False;False
+flattened diaphragm;diffuse right lower lobe airspace opacity;0.14835271;False;False
+flattened diaphragm;left lower lobe air space opacity;0.23388612;False;False
+flattened diaphragm;atelectasis;0.19881447;False;False
+flattened diaphragm;postop changes of CABG with mild cardiomegaly;0.14611647;False;False
+flattened diaphragm;infiltrate in the right lower lobe;0.25102097;False;False
+flattened diaphragm;multilevel degenerative changes in the spine;0.105524436;False;False
+flattened diaphragm;degenerative endplate changes of the spine;0.1690667;False;False
+flattened diaphragm;calcified hilar lymph node;0.18652844;False;False
+flattened diaphragm;pleural effusion;0.26339847;False;False
+flattened diaphragm;small left-sided pleural effusion;0.2664863;False;False
+increased retrosternal airspace;pulmonary edema;0.15694818;False;False
+increased retrosternal airspace;hyperinflated lungs;0.17181544;False;False
+increased retrosternal airspace;increased retrosternal airspace;1.0;True;True
+increased retrosternal airspace;mild spine dextrocurvature;-0.027877815;False;False
+increased retrosternal airspace;chronic pleural-parenchymal scarring;-0.015414059;False;False
+increased retrosternal airspace;obstructive pulmonary disease and emphysema;0.20873441;False;False
+increased retrosternal airspace;streaky bibasilar airspace opacities;0.57776135;False;True
+increased retrosternal airspace;vagal nerve stimulator;0.003026938;False;False
+increased retrosternal airspace;thoracic aortic atherosclerotic calcifications;0.014923918;False;False
+increased retrosternal airspace;XXXX atelectasis or scar is noted within the left midlung;0.07898393;False;False
+increased retrosternal airspace;tortuous thoracic aorta;0.057127345;False;False
+increased retrosternal airspace;anterior mediastinal mass;0.12486036;False;False
+increased retrosternal airspace;aortic calcifications;0.025823021;False;False
+increased retrosternal airspace;calcified hilar XXXX;0.027481308;False;False
+increased retrosternal airspace;degenerative changes thoracic spine;0.013662692;False;False
+increased retrosternal airspace;right-sided pleural effusion;0.021883503;False;False
+increased retrosternal airspace;vague opacities in the right upper lobe;0.2091638;False;False
+increased retrosternal airspace;calcified granuloma left upper lobe;0.0043147653;False;False
+increased retrosternal airspace;cardiomegaly;0.00024951063;False;False
+increased retrosternal airspace;obstructive lung disease;0.1980769;False;False
+increased retrosternal airspace;air space disease and/or atelectasis;0.24922904;False;False
+increased retrosternal airspace;XXXX streaky opacity in the left base;0.17588921;False;False
+increased retrosternal airspace;streaky opacity in the left base;0.17076871;False;False
+increased retrosternal airspace;calcified hilar calcification;-0.008283295;False;False
+increased retrosternal airspace;bilateral bibasilar airspace opacities;0.5472974;False;True
+increased retrosternal airspace;emphysema;0.15937266;False;False
+increased retrosternal airspace;calcified left hilar lymph node;-0.039619103;False;False
+increased retrosternal airspace;diffuse right lower lobe airspace opacity;0.4032381;False;False
+increased retrosternal airspace;left lower lobe air space opacity;0.28363296;False;False
+increased retrosternal airspace;atelectasis;0.07033301;False;False
+increased retrosternal airspace;postop changes of CABG with mild cardiomegaly;0.05864197;False;False
+increased retrosternal airspace;infiltrate in the right lower lobe;0.22739047;False;False
+increased retrosternal airspace;multilevel degenerative changes in the spine;0.05477129;False;False
+increased retrosternal airspace;degenerative endplate changes of the spine;0.017887138;False;False
+increased retrosternal airspace;calcified hilar lymph node;-0.022285547;False;False
+increased retrosternal airspace;pleural effusion;0.013333288;False;False
+increased retrosternal airspace;small left-sided pleural effusion;-0.0051889345;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);pulmonary edema;0.7418212;True;True
+pulmonary edema due to acute respiratory distress syndrome (ARDS);hyperinflated lungs;0.43437007;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);increased retrosternal airspace;0.1869979;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);mild spine dextrocurvature;0.027410692;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);chronic pleural-parenchymal scarring;0.13918188;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);obstructive pulmonary disease and emphysema;0.53588593;False;True
+pulmonary edema due to acute respiratory distress syndrome (ARDS);streaky bibasilar airspace opacities;0.0963621;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);vagal nerve stimulator;0.0719335;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);thoracic aortic atherosclerotic calcifications;0.22948869;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);XXXX atelectasis or scar is noted within the left midlung;0.18936703;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);tortuous thoracic aorta;0.31811526;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);anterior mediastinal mass;0.14412646;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);aortic calcifications;0.18801294;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar XXXX;0.06847505;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);degenerative changes thoracic spine;0.14654955;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);right-sided pleural effusion;0.22994825;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);vague opacities in the right upper lobe;0.066263504;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified granuloma left upper lobe;0.06672274;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);cardiomegaly;0.10397129;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);obstructive lung disease;0.46806234;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);air space disease and/or atelectasis;0.37446588;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);XXXX streaky opacity in the left base;0.04484103;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);streaky opacity in the left base;0.004151823;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar calcification;0.004043903;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);bilateral bibasilar airspace opacities;0.10380726;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);emphysema;0.45734683;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified left hilar lymph node;0.08366412;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);diffuse right lower lobe airspace opacity;0.129221;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);left lower lobe air space opacity;0.14924578;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);atelectasis;0.18593237;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);postop changes of CABG with mild cardiomegaly;0.11410376;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);infiltrate in the right lower lobe;0.14949173;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);multilevel degenerative changes in the spine;-0.024833499;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);degenerative endplate changes of the spine;0.02579628;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);calcified hilar lymph node;0.08014567;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);pleural effusion;0.2990088;False;False
+pulmonary edema due to acute respiratory distress syndrome (ARDS);small left-sided pleural effusion;0.19849959;False;False
+spine dextrocurvature;pulmonary edema;0.09380332;False;False
+spine dextrocurvature;hyperinflated lungs;0.079204075;False;False
+spine dextrocurvature;increased retrosternal airspace;-0.040418565;False;False
+spine dextrocurvature;mild spine dextrocurvature;0.963819;True;True
+spine dextrocurvature;chronic pleural-parenchymal scarring;0.19808269;False;False
+spine dextrocurvature;obstructive pulmonary disease and emphysema;-0.028596193;False;False
+spine dextrocurvature;streaky bibasilar airspace opacities;-0.06910599;False;False
+spine dextrocurvature;vagal nerve stimulator;0.27075946;False;False
+spine dextrocurvature;thoracic aortic atherosclerotic calcifications;0.1862609;False;False
+spine dextrocurvature;XXXX atelectasis or scar is noted within the left midlung;0.27531445;False;False
+spine dextrocurvature;tortuous thoracic aorta;0.32029957;False;False
+spine dextrocurvature;anterior mediastinal mass;0.219677;False;False
+spine dextrocurvature;aortic calcifications;0.22083834;False;False
+spine dextrocurvature;calcified hilar XXXX;0.08367376;False;False
+spine dextrocurvature;degenerative changes thoracic spine;0.48011667;False;False
+spine dextrocurvature;right-sided pleural effusion;0.138646;False;False
+spine dextrocurvature;vague opacities in the right upper lobe;0.22186261;False;False
+spine dextrocurvature;calcified granuloma left upper lobe;0.13810223;False;False
+spine dextrocurvature;cardiomegaly;0.30566013;False;False
+spine dextrocurvature;obstructive lung disease;0.014765339;False;False
+spine dextrocurvature;air space disease and/or atelectasis;0.06945323;False;False
+spine dextrocurvature;XXXX streaky opacity in the left base;0.16864485;False;False
+spine dextrocurvature;streaky opacity in the left base;0.13051207;False;False
+spine dextrocurvature;calcified hilar calcification;0.036765195;False;False
+spine dextrocurvature;bilateral bibasilar airspace opacities;-0.04865501;False;False
+spine dextrocurvature;emphysema;0.10923259;False;False
+spine dextrocurvature;calcified left hilar lymph node;0.11486469;False;False
+spine dextrocurvature;diffuse right lower lobe airspace opacity;0.088918805;False;False
+spine dextrocurvature;left lower lobe air space opacity;0.13958502;False;False
+spine dextrocurvature;atelectasis;0.22701065;False;False
+spine dextrocurvature;postop changes of CABG with mild cardiomegaly;0.30607504;False;False
+spine dextrocurvature;infiltrate in the right lower lobe;0.25958547;False;False
+spine dextrocurvature;multilevel degenerative changes in the spine;0.5554341;False;True
+spine dextrocurvature;degenerative endplate changes of the spine;0.5628424;False;True
+spine dextrocurvature;calcified hilar lymph node;0.09550059;False;False
+spine dextrocurvature;pleural effusion;0.11362445;False;False
+spine dextrocurvature;small left-sided pleural effusion;0.1177807;False;False
+bronchiectasis;pulmonary edema;0.40177572;False;False
+bronchiectasis;hyperinflated lungs;0.34455585;False;False
+bronchiectasis;increased retrosternal airspace;0.037058856;False;False
+bronchiectasis;mild spine dextrocurvature;0.113107465;False;False
+bronchiectasis;chronic pleural-parenchymal scarring;0.23151827;False;False
+bronchiectasis;obstructive pulmonary disease and emphysema;0.40753007;False;False
+bronchiectasis;streaky bibasilar airspace opacities;0.06410164;False;False
+bronchiectasis;vagal nerve stimulator;0.111979954;False;False
+bronchiectasis;thoracic aortic atherosclerotic calcifications;0.13111703;False;False
+bronchiectasis;XXXX atelectasis or scar is noted within the left midlung;0.27471033;False;False
+bronchiectasis;tortuous thoracic aorta;0.25508532;False;False
+bronchiectasis;anterior mediastinal mass;0.2606848;False;False
+bronchiectasis;aortic calcifications;0.12749457;False;False
+bronchiectasis;calcified hilar XXXX;0.20523629;False;False
+bronchiectasis;degenerative changes thoracic spine;0.19806372;False;False
+bronchiectasis;right-sided pleural effusion;0.24787544;False;False
+bronchiectasis;vague opacities in the right upper lobe;0.18552107;False;False
+bronchiectasis;calcified granuloma left upper lobe;0.30847538;False;False
+bronchiectasis;cardiomegaly;0.298744;False;False
+bronchiectasis;obstructive lung disease;0.40404755;False;False
+bronchiectasis;air space disease and/or atelectasis;0.28709096;False;False
+bronchiectasis;XXXX streaky opacity in the left base;0.19189438;False;False
+bronchiectasis;streaky opacity in the left base;0.16435109;False;False
+bronchiectasis;calcified hilar calcification;0.12686227;False;False
+bronchiectasis;bilateral bibasilar airspace opacities;0.028594987;False;False
+bronchiectasis;emphysema;0.48284006;False;False
+bronchiectasis;calcified left hilar lymph node;0.18993664;False;False
+bronchiectasis;diffuse right lower lobe airspace opacity;0.052561924;False;False
+bronchiectasis;left lower lobe air space opacity;0.13291718;False;False
+bronchiectasis;atelectasis;0.3105226;False;False
+bronchiectasis;postop changes of CABG with mild cardiomegaly;0.12374547;False;False
+bronchiectasis;infiltrate in the right lower lobe;0.30004448;False;False
+bronchiectasis;multilevel degenerative changes in the spine;0.092529796;False;False
+bronchiectasis;degenerative endplate changes of the spine;0.12577417;False;False
+bronchiectasis;calcified hilar lymph node;0.17624119;False;False
+bronchiectasis;pleural effusion;0.2966081;False;False
+bronchiectasis;small left-sided pleural effusion;0.2585077;False;False
+fibrotic scarring;pulmonary edema;0.16959545;False;False
+fibrotic scarring;hyperinflated lungs;0.25097108;False;False
+fibrotic scarring;increased retrosternal airspace;-0.028754205;False;False
+fibrotic scarring;mild spine dextrocurvature;0.25769073;False;False
+fibrotic scarring;chronic pleural-parenchymal scarring;0.645201;False;True
+fibrotic scarring;obstructive pulmonary disease and emphysema;0.13726152;False;False
+fibrotic scarring;streaky bibasilar airspace opacities;-0.10104108;False;False
+fibrotic scarring;vagal nerve stimulator;0.11885473;False;False
+fibrotic scarring;thoracic aortic atherosclerotic calcifications;0.16489348;False;False
+fibrotic scarring;XXXX atelectasis or scar is noted within the left midlung;0.40665942;False;False
+fibrotic scarring;tortuous thoracic aorta;0.24082232;False;False
+fibrotic scarring;anterior mediastinal mass;0.20899412;False;False
+fibrotic scarring;aortic calcifications;0.161415;False;False
+fibrotic scarring;calcified hilar XXXX;0.20290518;False;False
+fibrotic scarring;degenerative changes thoracic spine;0.1970046;False;False
+fibrotic scarring;right-sided pleural effusion;0.28071868;False;False
+fibrotic scarring;vague opacities in the right upper lobe;0.10612823;False;False
+fibrotic scarring;calcified granuloma left upper lobe;0.27520242;False;False
+fibrotic scarring;cardiomegaly;0.29861668;False;False
+fibrotic scarring;obstructive lung disease;0.19877365;False;False
+fibrotic scarring;air space disease and/or atelectasis;0.14117843;False;False
+fibrotic scarring;XXXX streaky opacity in the left base;0.15091857;False;False
+fibrotic scarring;streaky opacity in the left base;0.11899982;False;False
+fibrotic scarring;calcified hilar calcification;0.21087459;False;False
+fibrotic scarring;bilateral bibasilar airspace opacities;-0.13785195;False;False
+fibrotic scarring;emphysema;0.27127475;False;False
+fibrotic scarring;calcified left hilar lymph node;0.31224912;False;False
+fibrotic scarring;diffuse right lower lobe airspace opacity;0.10928479;False;False
+fibrotic scarring;left lower lobe air space opacity;0.12231383;False;False
+fibrotic scarring;atelectasis;0.18613827;False;False
+fibrotic scarring;postop changes of CABG with mild cardiomegaly;0.16956842;False;False
+fibrotic scarring;infiltrate in the right lower lobe;0.2393165;False;False
+fibrotic scarring;multilevel degenerative changes in the spine;0.123413086;False;False
+fibrotic scarring;degenerative endplate changes of the spine;0.2347031;False;False
+fibrotic scarring;calcified hilar lymph node;0.30614138;False;False
+fibrotic scarring;pleural effusion;0.3556421;False;False
+fibrotic scarring;small left-sided pleural effusion;0.30220965;False;False
+infiltrate in the right middle lobe;pulmonary edema;0.26709723;False;False
+infiltrate in the right middle lobe;hyperinflated lungs;0.2145242;False;False
+infiltrate in the right middle lobe;increased retrosternal airspace;0.2331959;False;False
+infiltrate in the right middle lobe;mild spine dextrocurvature;0.21604413;False;False
+infiltrate in the right middle lobe;chronic pleural-parenchymal scarring;0.19644046;False;False
+infiltrate in the right middle lobe;obstructive pulmonary disease and emphysema;0.16309667;False;False
+infiltrate in the right middle lobe;streaky bibasilar airspace opacities;0.20999376;False;False
+infiltrate in the right middle lobe;vagal nerve stimulator;0.15028508;False;False
+infiltrate in the right middle lobe;thoracic aortic atherosclerotic calcifications;0.11095558;False;False
+infiltrate in the right middle lobe;XXXX atelectasis or scar is noted within the left midlung;0.49173844;False;False
+infiltrate in the right middle lobe;tortuous thoracic aorta;0.26427376;False;False
+infiltrate in the right middle lobe;anterior mediastinal mass;0.38163763;False;False
+infiltrate in the right middle lobe;aortic calcifications;0.13452087;False;False
+infiltrate in the right middle lobe;calcified hilar XXXX;0.19528648;False;False
+infiltrate in the right middle lobe;degenerative changes thoracic spine;0.1530869;False;False
+infiltrate in the right middle lobe;right-sided pleural effusion;0.42794043;False;False
+infiltrate in the right middle lobe;vague opacities in the right upper lobe;0.65002334;False;True
+infiltrate in the right middle lobe;calcified granuloma left upper lobe;0.4716187;False;False
+infiltrate in the right middle lobe;cardiomegaly;0.18644327;False;False
+infiltrate in the right middle lobe;obstructive lung disease;0.23950079;False;False
+infiltrate in the right middle lobe;air space disease and/or atelectasis;0.18243593;False;False
+infiltrate in the right middle lobe;XXXX streaky opacity in the left base;0.27566388;False;False
+infiltrate in the right middle lobe;streaky opacity in the left base;0.24808712;False;False
+infiltrate in the right middle lobe;calcified hilar calcification;0.14794782;False;False
+infiltrate in the right middle lobe;bilateral bibasilar airspace opacities;0.24876957;False;False
+infiltrate in the right middle lobe;emphysema;0.24139035;False;False
+infiltrate in the right middle lobe;calcified left hilar lymph node;0.34773314;False;False
+infiltrate in the right middle lobe;diffuse right lower lobe airspace opacity;0.48393965;False;False
+infiltrate in the right middle lobe;left lower lobe air space opacity;0.3923712;False;False
+infiltrate in the right middle lobe;atelectasis;0.33711886;False;False
+infiltrate in the right middle lobe;postop changes of CABG with mild cardiomegaly;0.13190648;False;False
+infiltrate in the right middle lobe;infiltrate in the right lower lobe;0.97466034;True;True
+infiltrate in the right middle lobe;multilevel degenerative changes in the spine;0.18699682;False;False
+infiltrate in the right middle lobe;degenerative endplate changes of the spine;0.20908777;False;False
+infiltrate in the right middle lobe;calcified hilar lymph node;0.3011697;False;False
+infiltrate in the right middle lobe;pleural effusion;0.32852274;False;False
+infiltrate in the right middle lobe;small left-sided pleural effusion;0.42529258;False;False
+lumbar degenerative disc disease;pulmonary edema;0.09076304;False;False
+lumbar degenerative disc disease;hyperinflated lungs;0.10388833;False;False
+lumbar degenerative disc disease;increased retrosternal airspace;-0.014208;False;False
+lumbar degenerative disc disease;mild spine dextrocurvature;0.46537516;False;False
+lumbar degenerative disc disease;chronic pleural-parenchymal scarring;0.18679205;False;False
+lumbar degenerative disc disease;obstructive pulmonary disease and emphysema;0.06773423;False;False
+lumbar degenerative disc disease;streaky bibasilar airspace opacities;-0.025613204;False;False
+lumbar degenerative disc disease;vagal nerve stimulator;0.079903394;False;False
+lumbar degenerative disc disease;thoracic aortic atherosclerotic calcifications;0.12217677;False;False
+lumbar degenerative disc disease;XXXX atelectasis or scar is noted within the left midlung;0.26820123;False;False
+lumbar degenerative disc disease;tortuous thoracic aorta;0.14168099;False;False
+lumbar degenerative disc disease;anterior mediastinal mass;0.20472461;False;False
+lumbar degenerative disc disease;aortic calcifications;0.07200884;False;False
+lumbar degenerative disc disease;calcified hilar XXXX;-0.0027219579;False;False
+lumbar degenerative disc disease;degenerative changes thoracic spine;0.59845257;False;True
+lumbar degenerative disc disease;right-sided pleural effusion;0.12490293;False;False
+lumbar degenerative disc disease;vague opacities in the right upper lobe;0.15435596;False;False
+lumbar degenerative disc disease;calcified granuloma left upper lobe;0.17505957;False;False
+lumbar degenerative disc disease;cardiomegaly;0.094116606;False;False
+lumbar degenerative disc disease;obstructive lung disease;0.15246421;False;False
+lumbar degenerative disc disease;air space disease and/or atelectasis;0.1991401;False;False
+lumbar degenerative disc disease;XXXX streaky opacity in the left base;0.14213878;False;False
+lumbar degenerative disc disease;streaky opacity in the left base;0.10954113;False;False
+lumbar degenerative disc disease;calcified hilar calcification;-0.027304843;False;False
+lumbar degenerative disc disease;bilateral bibasilar airspace opacities;-0.050500453;False;False
+lumbar degenerative disc disease;emphysema;0.10210054;False;False
+lumbar degenerative disc disease;calcified left hilar lymph node;0.12681653;False;False
+lumbar degenerative disc disease;diffuse right lower lobe airspace opacity;0.15200111;False;False
+lumbar degenerative disc disease;left lower lobe air space opacity;0.107829064;False;False
+lumbar degenerative disc disease;atelectasis;0.11625718;False;False
+lumbar degenerative disc disease;postop changes of CABG with mild cardiomegaly;0.17222285;False;False
+lumbar degenerative disc disease;infiltrate in the right lower lobe;0.16291052;False;False
+lumbar degenerative disc disease;multilevel degenerative changes in the spine;0.5777496;False;True
+lumbar degenerative disc disease;degenerative endplate changes of the spine;0.5616597;False;True
+lumbar degenerative disc disease;calcified hilar lymph node;0.08963832;False;False
+lumbar degenerative disc disease;pleural effusion;0.13760531;False;False
+lumbar degenerative disc disease;small left-sided pleural effusion;0.12036085;False;False
