@@ -1,0 +1,201 @@
+ID;Hipótesis;Texto Hipótesis;Texto Gold;Similitud
+CXR2806   ;NN;Normal;Normal;SI
+CXR2806   ;DN;Normal;Normal;SI
+CXR2806   ;ND;Normal;Normal;SI
+CXR2806   ;DD;edema;Normal;NO
+CXR462   ;NN;mild cardiomegaly and mild unfolding of the thoracic aorta;Dilatation of aorta    (UMLS) and Cardiomegaly;SI
+CXR462   ;DN;heart enlargement;Dilatation of aorta    (UMLS) and Cardiomegaly;NO
+CXR462   ;ND;mild cardiomegaly and mild aortographic narrowing;Dilatation of aorta    (UMLS) and Cardiomegaly;NO
+CXR462   ;DD;mild small enlargement of the heart chambers and mild gradual dilation of the thoracic aorta;Dilatation of aorta    (UMLS) and Cardiomegaly;SI
+CXR3906   ;NN;Normal;Normal;SI
+CXR3906   ;DN;Normal;Normal;SI
+CXR3906   ;ND;"heart enlargement"",, adenoma in the transverse colon"",, enlarged heart"",, mild anatomical enlargement of the heart chambers"",, aortic stent grafts over the descending thoracic aorta"",, heart enlargement"", and ascending aortic aneurysm";Normal;NO
+CXR3906   ;DD;"effusive lung disease"",, pleuritis"",, subaortic stenosis"",, ascertain right pleural effusion"", and pneumothorax";Normal;NO
+CXR2982;NN;Normal;Lung scarring    (UMLS);NO
+CXR2982;DN;Normal;Lung scarring    (UMLS);NO
+CXR2982;ND;xxxx scarring in the lingula;Lung scarring    (UMLS);SI
+CXR2982;DD;"Mild scarring in the lingula"", and Pulmonary fibrosis";Lung scarring    (UMLS);NO
+CXR1235;NN;no focal infiltrates;Abnormally opaque structure (morphologic abnormality);NO
+CXR1235;DN;"ground glass opacities"", and focal infiltration";Abnormally opaque structure (morphologic abnormality);NO
+CXR1235;ND;Ground glass opacities;Abnormally opaque structure (morphologic abnormality);NO
+CXR1235;DD;ground glass opacities;Abnormally opaque structure (morphologic abnormality);NO
+CXR3391;NN;"no focal areas of consolidation"",, no suspicious pulmonary opacities"",, heart size within normal limits"",, no pleural effusions"",, ascertain no pneumothorax"", and there is no evidence of stable left mid lung granuloma";Pulmonary granuloma;NO
+CXR3391;DN;"hyperinflated lungs"",, lumbar degenerative disc disease"",, thoracic aorta tortuosity"",, pulmonary edema due to acute respiratory distress syndrome (ARDS)"",, spine dextrocurvature"",, bronchiectasis"",, fibrotic scarring"",, infiltrate in the right middle lobe"",, opacity within the right lung base"",, atelectasis"",, pleural effusion"",, pneumothoraces"",, hyperexpanded lungs"",, increased retrosternal airspace"",, calcified granulomas"",, right-sided pleural effusion"",, stable cardiomegaly"",, calcified thoracic aorta"",, dense retrocardiac opacities"", and bilateral interstitial opacities increased since last exam";Pulmonary granuloma;NO
+CXR3391;ND;Normal;Pulmonary granuloma;NO
+CXR3391;DD;"interstitial pneumonia"",, pleurisy"",, bicuspid aortic valve stenosis"",, pulmonary edema due to ARDS"",, pulmonary fibrosis"",, medial disc disease"",, pleuritis"",, right-sided heart failure"",, spinal stenosis"", and right-sided pulmonary hypertension";Pulmonary granuloma;NO
+CXR2091;NN;thoracic spondylosis;Thoracic spondylosis;SI
+CXR2091;DN;thoracic spondylosis;Thoracic spondylosis;SI
+CXR2091;ND;thoracic spondylosis;Thoracic spondylosis;SI
+CXR2091;DD;"thoracic spondylosis"", and l5-s1 of the spine";Thoracic spondylosis;NO
+CXR3993;NN;heart enlargement;-x-ray of chest: elevation of left diaphragm only    (UMLS);SI
+CXR3993;DN;Normal;-x-ray of chest: elevation of left diaphragm only    (UMLS);NO
+CXR3993;ND;enlarged heart;-x-ray of chest: elevation of left diaphragm only    (UMLS);NO
+CXR3993;DD;Normal;-x-ray of chest: elevation of left diaphragm only    (UMLS);NO
+CXR470;NN;"no focal consolidation"",, pneumothorax"", and effusion";Normal;NO
+CXR470;DN;Normal;Normal;SI
+CXR470;ND;Normal;Normal;SI
+CXR470;DD;Normal;Normal;SI
+CXR3455;NN;"diffuse bilateral interstitial and alveolar opacities"", and left basilar airspace opacities";-Cardiomegaly    (UMLS), -Pulmonary vascular disorder    (UMLS) and -Abnormally opaque structure (morphologic abnormality);NO
+CXR3455;DN;"central vascular prominence"", and diffuse bilateral interstitial and alveolar opacities";-Cardiomegaly    (UMLS), -Pulmonary vascular disorder    (UMLS) and -Abnormally opaque structure (morphologic abnormality);NO
+CXR3455;ND;"central vascular prominence"",, diffuse bilateral interstitial and alveolar opacities"", and left basilar airspace opacities";-Cardiomegaly    (UMLS), -Pulmonary vascular disorder    (UMLS) and -Abnormally opaque structure (morphologic abnormality);NO
+CXR3455;DD;Normal;-Cardiomegaly    (UMLS), -Pulmonary vascular disorder    (UMLS) and -Abnormally opaque structure (morphologic abnormality);NO
+CXR3995;NN;" ""ascendant aortic aneurysm";-Pulmonary Infiltrate    (UMLS), -Lung hyperinflation and -Atelectasis;NO
+CXR3995;DN;"flattened diaphragm"",, minimal scarring or atelectasis in the right midlung"", and resolution of bibasilar and perihilar interstitial opacities";-Pulmonary Infiltrate    (UMLS), -Lung hyperinflation and -Atelectasis;NO
+CXR3995;ND;mild hyperinflated lungs;-Pulmonary Infiltrate    (UMLS), -Lung hyperinflation and -Atelectasis;NO
+CXR3995;DD;mild hyperinflated lungs;-Pulmonary Infiltrate    (UMLS), -Lung hyperinflation and -Atelectasis;NO
+CXR2007;NN;ascertain mild degenerative changes of the thoracic spine;Degeneration of spine;NO
+CXR2007;DN;mild degenerative changes of the thoracic spine;Degeneration of spine;NO
+CXR2007;ND;mild degenerative changes of the thoracic spine;Degeneration of spine;NO
+CXR2007;DD;mild degenerative changes of the thoracic spine;Degeneration of spine;NO
+CXR488;NN;Normal;Normal;SI
+CXR488;DN;"no focal consolidation"",, no pleural effusion"", and no pneumothorax";Normal;SI
+CXR488;ND;Normal;Normal;SI
+CXR488;DD;stable surgical clips in the left hilar area;Normal;NO
+CXR3534;NN;Normal;Paratracheal lymphadenopathy    (UMLS);NO
+CXR3534;DN;calcified lymph node;Paratracheal lymphadenopathy    (UMLS);SI
+CXR3534;ND;Normal;Paratracheal lymphadenopathy    (UMLS);NO
+CXR3534;DD;"Text to analyze"", and jsonIni";Paratracheal lymphadenopathy    (UMLS);NO
+CXR3673;NN;"aortic calcifications"", and emphysema";Abnormally opaque structure (morphologic abnormality), -Pulmonary Emphysema and -Calcification of the aorta;SI
+CXR3673;DN;"aortic calcifications"",, small calcified lymph nodes"",, emphysema"",, questionable opacity in the left perihilar upper lobe"", and possible extension to the pleural surface";Abnormally opaque structure (morphologic abnormality), -Pulmonary Emphysema and -Calcification of the aorta;NO
+CXR3673;ND;"aortic calcifications"",, small left-sided effusion"", and ground glass opacities in the left perihilar upper lobe";Abnormally opaque structure (morphologic abnormality), -Pulmonary Emphysema and -Calcification of the aorta;NO
+CXR3673;DD;"aortic calcifications"",, small calcified lymph nodes"",, emphysema and chronic changes"", and questionable opacity in the left perihilar upper lobe";Abnormally opaque structure (morphologic abnormality), -Pulmonary Emphysema and -Calcification of the aorta;NO
+CXR1153;NN;"mild hyperinflated lungs"", and aortic calcifications";Normal;NO
+CXR1153;DN;"hyperinflated lungs"",, thoracic aorta tortuosity"",, fibrotic scarring"",, pulmonary edema due to acute respiratory distress syndrome (ARDS)"",, lumbar degenerative disc disease"",, atherosclerosis of the aortic"",, degenerative changes of the thoracic spine"",, right-sided pleural effusion"",, diffuse right lower lobe airspace opacity"",, ascendant aortic aneurysm"",, ascending aortic aneurysm"",, subsegmental atelectasis"",, heart enlargement"",, atherosclerotic vascular calcifications"",, right lower lobe pulmonary nodule"",, left perihilar upper lung nodule"",, ascertain aortic calcifications"", and left-sided effusion";Normal;NO
+CXR1153;ND;Normal;Normal;SI
+CXR1153;DD;"9 mm right lower lobe exudative nodular pulmonary nodule not seen on prior exams"", and calcified granulomas in the affected areas";Normal;NO
+CXR2923;NN;Normal;Normal;SI
+CXR2923;DN;Normal;Normal;SI
+CXR2923;ND;Normal;Normal;SI
+CXR2923;DD;Normal;Normal;SI
+CXR3910;NN;multilevel degenerative changes in the spine;Lung hypoinflation    (UMLS) and -Degeneration of spine;NO
+CXR3910;DN;"focal airspace opacity"", and multilevel degenerative changes in the spine";Lung hypoinflation    (UMLS) and -Degeneration of spine;NO
+CXR3910;ND;"pleural effusion"", and pneumothorax";Lung hypoinflation    (UMLS) and -Degeneration of spine;NO
+CXR3910;DD;multilevel degenerative changes in the spine;Lung hypoinflation    (UMLS) and -Degeneration of spine;NO
+CXR715;NN;mildly increased streaky airspace disease in the right lung base;airway disease restrictive    (UMLS), -Hilar lymphadenopathy    (UMLS) and -Elevated right hemidiaphragm;NO
+CXR715;DN;"right hemidiaphragm elevation"", and mildly increased linear densities in the right lung base due to airspace disease";airway disease restrictive    (UMLS), -Hilar lymphadenopathy    (UMLS) and -Elevated right hemidiaphragm;NO
+CXR715;ND;mildly increased streaky airspace disease in the right lung base;airway disease restrictive    (UMLS), -Hilar lymphadenopathy    (UMLS) and -Elevated right hemidiaphragm;NO
+CXR715;DD;"chronic asymmetric elevation of the right hemidiaphragm"", and airspace disease involving the right lung base with mildly increased linear densities";airway disease restrictive    (UMLS), -Hilar lymphadenopathy    (UMLS) and -Elevated right hemidiaphragm;NO
+CXR2985;NN;mild multilevel thoracolumbar degenerative disc disease;Intervertebral Disc Degeneration    (UMLS);SI
+CXR2985;DN;"mild multilevel thoracolumbar degenerative disc disease"", and mild degenerative changes of the thoracic spine";Intervertebral Disc Degeneration    (UMLS);NO
+CXR2985;ND;lumbar degenerative disc disease;Intervertebral Disc Degeneration    (UMLS);SI
+CXR2985;DD;l5-s1_of_the_spine;Intervertebral Disc Degeneration    (UMLS);NO
+CXR3878;NN;"mild cardiomegaly"",, right lower lobe pulmonary nodule"", and thoracic spondylosis";-Pulmonary Infiltrate    (UMLS), -Thoracic spondylosis and -Cardiomegaly;SI
+CXR3878;DN;"right lower lobe pulmonary nodule"", and thoracic spondylosis";-Pulmonary Infiltrate    (UMLS), -Thoracic spondylosis and -Cardiomegaly;NO
+CXR3878;ND;"mild cardiomegaly"",, infiltrate in the right lower lobe"", and thoracic spondylosis";-Pulmonary Infiltrate    (UMLS), -Thoracic spondylosis and -Cardiomegaly;SI
+CXR3878;DD;thoracic_spondylosis;-Pulmonary Infiltrate    (UMLS), -Thoracic spondylosis and -Cardiomegaly;NO
+CXR260;NN;advanced degenerative changes in the spine;Abnormal degeneration;NO
+CXR260;DN;findings;Abnormal degeneration;NO
+CXR260;ND;Normal;Abnormal degeneration;NO
+CXR260;DD;38 mm lucency in the right humeral head with geographic 1A margins;Abnormal degeneration;NO
+CXR2103;NN;Normal;Normal;SI
+CXR2103;DN;"ascertain normal cardiac output"", and pulmonary vasculature appears within normal limits";Normal;NO
+CXR2103;ND;No pleural effusion;Normal;NO
+CXR2103;DD;"focal airspace disease"", and disease pattern";Normal;NO
+CXR1551;NN;Normal;Normal;SI
+CXR1551;DN;Normal;Normal;SI
+CXR1551;ND;Normal;Normal;SI
+CXR1551;DD;Normal;Normal;SI
+CXR2934;NN;"lumbar scoliosis"", and ascendant aortic aneurysm";Lumbar scoliosis;NO
+CXR2934;DN;"hyperinflated lungs"", and lumbar degenerative disc disease";Lumbar scoliosis;NO
+CXR2934;ND;Normal;Lumbar scoliosis;NO
+CXR2934;DD;lumbar scoliosis;Lumbar scoliosis;SI
+CXR3130;NN;"thoracic aortic atherosclerotic calcifications"", and patchy airspace opacity in perihilar right lung";Cardiomegaly    (UMLS), -Thoracic aorta calcification, -Abnormally opaque structure (morphologic abnormality) and -Lung consolidation;SI
+CXR3130;DN;"thoracic aortic atherosclerotic calcifications"",, ground glass opacities dense consolidation within the inferior left lung field"", and patchy airspace opacity within the perihilar right lung";Cardiomegaly    (UMLS), -Thoracic aorta calcification, -Abnormally opaque structure (morphologic abnormality) and -Lung consolidation;SI
+CXR3130;ND;"atherosclerotic calcifications of the aorta"",, focal consolidation"", and ground glass opacities within the perihilar right lung";Cardiomegaly    (UMLS), -Thoracic aorta calcification, -Abnormally opaque structure (morphologic abnormality) and -Lung consolidation;SI
+CXR3130;DD;"heart enlargement"",, thoracic aortic atherosclerotic calcifications"",, ground glass opacities"",, dense consolidation"", and patchy airspace opacity";Cardiomegaly    (UMLS), -Thoracic aorta calcification, -Abnormally opaque structure (morphologic abnormality) and -Lung consolidation;SI
+CXR90 ;NN;"degenerative changes of the thoracic spine"", and mild degenerative changes of the thoracic spine";Degeneration of spine;SI
+CXR90 ;DN;Normal;Degeneration of spine;NO
+CXR90 ;ND;degenerative endplate changes of the spine are marginally thin and calcified;Degeneration of spine;SI
+CXR90 ;DD;"clear lungs"",, pleural effusion"",, pneumothorax"", and mild/moderate changes of the spine";Degeneration of spine;NO
+CXR1678;NN;"right-sided pleural effusion"", and vague opacities in the right upper lobe";Elevated right hemidiaphragm, -Pleural effusion disorder and -Abnormally opaque structure (morphologic abnormality);SI
+CXR1678;DN;right-sided pleural effusion;Elevated right hemidiaphragm, -Pleural effusion disorder and -Abnormally opaque structure (morphologic abnormality);NO
+CXR1678;ND;right-sided pleural effusion;Elevated right hemidiaphragm, -Pleural effusion disorder and -Abnormally opaque structure (morphologic abnormality);NO
+CXR1678;DD;"right chest calcifications at the cavoatrial junction"",, elevation of right hemidiaphragm with right-sided pleural effusion"",, vague opacities noted in the right upper lobe"", and true pulmonary nodules";Elevated right hemidiaphragm, -Pleural effusion disorder and -Abnormally opaque structure (morphologic abnormality);NO
+CXR1098;NN;"hyperinflated lungs"",, chronic pleural-parenchymal scarring in the lung bases"", and emphysema";Pulmonary Emphysema    (UMLS), -Lung Diseases, Obstructive, -Lung hyperinflation and -Pleural scarring;SI
+CXR1098;DN;"coarse interstitial markings consistent with exudative lung disease"",, associated empyema"", and pleural-parenchymal scarring within the lung bases";Pulmonary Emphysema    (UMLS), -Lung Diseases, Obstructive, -Lung hyperinflation and -Pleural scarring;NO
+CXR1098;ND;"hyperinflated lungs"", and emphysema";Pulmonary Emphysema    (UMLS), -Lung Diseases, Obstructive, -Lung hyperinflation and -Pleural scarring;SI
+CXR1098;DD;"exudative lung disease"", and calcified hilar tumors";Pulmonary Emphysema    (UMLS), -Lung Diseases, Obstructive, -Lung hyperinflation and -Pleural scarring;NO
+CXR1941;NN;stable cardiomegaly;Calcification of the aorta    (UMLS) and -Abnormally opaque structure;NO
+CXR1941;DN;"stable cardiomegaly"",, mild interstitial opacities"", and unchanged dense retrocardiac opacities";Calcification of the aorta    (UMLS) and -Abnormally opaque structure;NO
+CXR1941;ND;"stable cardiomegaly"", and calcified thoracic aorta is unchanged";Calcification of the aorta    (UMLS) and -Abnormally opaque structure;NO
+CXR1941;DD;"calcified thoracic aorta narrowing"", and stable cardiomegaly";Calcification of the aorta    (UMLS) and -Abnormally opaque structure;SI
+CXR2661;NN;mild cardiomegaly;Cardiomegaly and - Lung hypoinflation    (UMLS);NO
+CXR2661;DN;mild cardiomegaly;Cardiomegaly and - Lung hypoinflation    (UMLS);NO
+CXR2661;ND;mild cardiomegaly;Cardiomegaly and - Lung hypoinflation    (UMLS);NO
+CXR2661;DD;mild cardiomegaly;Cardiomegaly and - Lung hypoinflation    (UMLS);SI
+CXR1786;NN;stable foreign body over the left breast;Normal;NO
+CXR1786;DN;"focal consolidation"", and pneumothorax";Normal;NO
+CXR1786;ND;Normal;Normal;SI
+CXR1786;DD;Normal;Normal;SI
+CXR990;NN;Normal;Normal;SI
+CXR990;DN;Normal;Normal;SI
+CXR990;ND;"pneumothorax"", and effusions";Normal;NO
+CXR990;DD;Pneumothorax;Normal;NO
+CXR3648;NN;"no focal consolidation, pleural effusions or pneumothorax"",, osseous structures within normal limits"", and heart and cardiomediastinal silhouette is normal";Normal;SI
+CXR3648;DN;ground glass opacities;Normal;NO
+CXR3648;ND;Normal;Normal;SI
+CXR3648;DD;Normal;Normal;SI
+CXR139;NN;"hyperinflated lungs"",, thoracic aorta tortuosity and calcification"",, severe degenerative changes of the thoracic spine"", and mild cardiomegaly";Aortic tortuosity    (UMLS), -Calcification of the aorta    (UMLS), -Degeneration of spine, -Dilatation of aorta, -Abnormally opaque structure (morphologic abnormality), -Anterior mediastinum mass and -Lung hyperinflation;NO
+CXR139;DN;"mild cardiomegaly"",, severe degeneration in the thoracic spine"", and bilateral hyperexpanded lungs with diaphragmatic flattening";Aortic tortuosity    (UMLS), -Calcification of the aorta    (UMLS), -Degeneration of spine, -Dilatation of aorta, -Abnormally opaque structure (morphologic abnormality), -Anterior mediastinum mass and -Lung hyperinflation;NO
+CXR139;ND;"cardiomegaly"",, thoracic aortic calcifications"",, mild degeneration of the spine"",, severe degenerative changes in the thoracic spine"", and thoracic spondylosis";Aortic tortuosity    (UMLS), -Calcification of the aorta    (UMLS), -Degeneration of spine, -Dilatation of aorta, -Abnormally opaque structure (morphologic abnormality), -Anterior mediastinum mass and -Lung hyperinflation;NO
+CXR139;DD;"mass lesion"", and severe degeneration of the thoracic spine";Aortic tortuosity    (UMLS), -Calcification of the aorta    (UMLS), -Degeneration of spine, -Dilatation of aorta, -Abnormally opaque structure (morphologic abnormality), -Anterior mediastinum mass and -Lung hyperinflation;NO
+CXR1118;NN;"infiltrate in the right middle lobe"",, calcified granulomas"",, calcified scarring (left upper and right apex)"",, aortic calcifications"", and mild degenerative changes of the thoracic spine";Normal;NO
+CXR1118;DN;ascending aortic aneurysm;Normal;NO
+CXR1118;ND;"pulmonary edema due to ARDS"",, aortic calcifications"",, fibrotic scarring"", and bronchiectasis";Normal;NO
+CXR1118;DD;Normal;Normal;SI
+CXR3797;NN;"left lower lobe air space opacity"", and lateral chest atelectasis";Normal;NO
+CXR3797;DN;atelectasis;Normal;NO
+CXR3797;ND;"left lower lobe air space opacity"", and atelectasis";Normal;NO
+CXR3797;DD;"left lower lobe air space opacity"",, ground glass opacities"", and atelectasis";Normal;NO
+CXR2443;NN;"no focal airspace disease"",, no pleural effusion"",, no pneumothorax"", and vascular calcification";Vascular calcification;NO
+CXR2443;DN;vascular calcifications are present;Vascular calcification;SI
+CXR2443;ND;"focal airspace disease"",, pleural effusion"", and vascular calcification";Vascular calcification;NO
+CXR2443;DD;"interstitial pneumonia"",, pleurisy"",, effusive lung disease"",, bicuspid aortic valve stenosis"",, mediastinitis due to granulomatosis with polythymic syndrome"",, pulmonary edema due to acute respiratory distress syndrome (ARDS)"",, fibrotic scarring"",, subaortic stenosis"",, increased pulmonary nodules since the previous imaging"",, thoracic spondylosis"",, L5-S1 of the spine"",, pleural effusion streaky opacity in the left base"", and small left-sided effusion";Vascular calcification;NO
+CXR3100 ;NN;"hyperinflated lungs"",, pleural effusion"", and degenerative changes in the spine";Degeneration of spine and -Lung hyperinflation;NO
+CXR3100 ;DN;"hyperinflated lungs"",, lumbar degenerative disc disease"",, thoracic aorta tortuosity"",, pulmonary edema due to acute respiratory distress syndrome (ARDS)"",, bibasilar and perihilar interstitial opacities"",, aortic calcifications"",, right-sided pleural effusion"",, moderate cardiomegaly"",, large hiatal hernia"",, aortic atherosclerotic vascular calcification"",, ascending aortic aneurysm"", and mild dextroscoliosis";Degeneration of spine and -Lung hyperinflation;SI
+CXR3100 ;ND;"hyperinflated lungs"",, lumbar degenerative disc disease"", and spine xiphoid process angulation";Degeneration of spine and -Lung hyperinflation;NO
+CXR3100 ;DD;"true"",, true"",, true"",, true"", and true";Degeneration of spine and -Lung hyperinflation;NO
+CXR1543;NN;"focal airspace disease"",, pleural effusion"",, pneumothorax"", and large hiatal hernia";Hiatal Hernia    (UMLS);NO
+CXR1543;DN;finding;Hiatal Hernia    (UMLS);NO
+CXR1543;ND;large hiatal hernia;Hiatal Hernia    (UMLS);SI
+CXR1543;DD;large hiatal hernia;Hiatal Hernia    (UMLS);SI
+CXR3740;NN;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);NO
+CXR3740;DN;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);SI
+CXR3740;ND;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);NO
+CXR3740;DD;diffuse right lower lobe airspace opacity;Abnormally opaque structure (morphologic abnormality);NO
+CXR1634;NN;"calcified granulomas"",, calcified hilar XXXX"",, prominent substernal air space"",, aortic calcifications"", and degenerative changes thoracic spine";Degeneration of spine    (UMLS), -hilar calcification    (UMLS), -Calcification of the aorta, -Lung hyperinflation and -Calcified granuloma;NO
+CXR1634;DN;"calcified granulomas"",, calcified hilar XXXX"",, aortic calcifications"",, degenerative changes thoracic spine"",, hyperexpanded lungs"", and increased retrosternal airspace";Degeneration of spine    (UMLS), -hilar calcification    (UMLS), -Calcification of the aorta, -Lung hyperinflation and -Calcified granuloma;NO
+CXR1634;ND;"calcified granulomas"", and calcified hilar XXXX";Degeneration of spine    (UMLS), -hilar calcification    (UMLS), -Calcification of the aorta, -Lung hyperinflation and -Calcified granuloma;NO
+CXR1634;DD;"calcified granulomas"",, calcified hilar costophrenic angle"",, aortic calcifications"", and degenerative changes anterior thoracic spine";Degeneration of spine    (UMLS), -hilar calcification    (UMLS), -Calcification of the aorta, -Lung hyperinflation and -Calcified granuloma;SI
+CXR777;NN;"thoracic aorta tortuosity"", and mild degenerative changes and osteopenia of the thoracic spine";Aortic tortuosity    (UMLS) and -Degeneration of spine    (UMLS);NO
+CXR777;DN;finding;Aortic tortuosity    (UMLS) and -Degeneration of spine    (UMLS);NO
+CXR777;ND;mild degenerative changes in the spine consistent with advancing age;Aortic tortuosity    (UMLS) and -Degeneration of spine    (UMLS);NO
+CXR777;DD;"no pulmonary stenosis"", and mild degeneration with minimal calcifications noted in the thoracic spine";Aortic tortuosity    (UMLS) and -Degeneration of spine    (UMLS);NO
+CXR593;NN;"extensive degenerative changes of the thoracic spine"",, mildly enlarged heart"",, tortuous aorta"", and aortic calcifications";Aortic tortuosity    (UMLS), -Cardiomegaly, -Calcification of the aorta and -Degeneration of spine;NO
+CXR593;DN;"extensive degenerative changes of the thoracic spine"",, mildly enlarged heart"",, tortuous aorta"", and aortic calcifications";Aortic tortuosity    (UMLS), -Cardiomegaly, -Calcification of the aorta and -Degeneration of spine;SI
+CXR593;ND;"extensive degenerative changes of the thoracic spine"",, mildly enlarged heart"",, tortuous aorta"", and aortic calcifications";Aortic tortuosity    (UMLS), -Cardiomegaly, -Calcification of the aorta and -Degeneration of spine;SI
+CXR593;DD;"extensive degenerative changes of the thoracic spine"",, mildly enlarged heart"",, tortuous aorta"", and aortic calcifications";Aortic tortuosity    (UMLS), -Cardiomegaly, -Calcification of the aorta and -Degeneration of spine;NO
+CXR6;NN;mild degenerative changes of the thoracic spine;Degeneration of spine;NO
+CXR6;DN;"effusion-like opacity subsegmental atelectasis"", and ground glass opacities";Degeneration of spine;NO
+CXR6;ND;Normal;Degeneration of spine;NO
+CXR6;DD;Normal;Degeneration of spine;NO
+CXR1788;NN;Normal;Normal;SI
+CXR1788;DN;Normal;Normal;SI
+CXR1788;ND;Normal;Normal;SI
+CXR1788;DD;Normal;Normal;SI
+CXR3148;NN;"cardiomegaly"",, pleural effusion"", and low lung volumes";Lung hypoinflation    (UMLS), -Pleural effusion disorder and -Cardiomegaly;NO
+CXR3148;DN;"slight cardiomegaly"", and small left pleural effusion";Lung hypoinflation    (UMLS), -Pleural effusion disorder and -Cardiomegaly;SI
+CXR3148;ND;"mild cardiomegaly"", and small left pleural effusion";Lung hypoinflation    (UMLS), -Pleural effusion disorder and -Cardiomegaly;NO
+CXR3148;DD;"slight cardiomegaly"", and small left pleural effusion";Lung hypoinflation    (UMLS), -Pleural effusion disorder and -Cardiomegaly;NO
+CXR2960;NN;Normal;Normal;SI
+CXR2960;DN;clear lung consolidation bilaterally;Normal;NO
+CXR2960;ND;"pneumothorax"", and pleural effusion";Normal;NO
+CXR2960;DD;Normal;Normal;SI
+CXR1042;NN;"heart size large"", and stable cardiomegaly";Normal;NO
+CXR1042;DN;Normal;Normal;SI
+CXR1042;ND;Normal;Normal;SI
+CXR1042;DD;Normal;Normal;SI
+CXR460;NN;mild tortuosity of the thoracic aorta;Aortic tortuosity    (UMLS);SI
+CXR460;DN;Normal;Aortic tortuosity    (UMLS);NO
+CXR460;ND;Normal;Aortic tortuosity    (UMLS);NO
+CXR460;DD;"ground glass opacities"",, patchy airspace opacity"",, effusion-like opacity subsegmental atelectasis"",, small calcified lymph nodes"",, diffuse right lower lung obstructions"", and pleural effusion";Aortic tortuosity    (UMLS);NO
