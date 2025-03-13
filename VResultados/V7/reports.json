@@ -1,0 +1,111 @@
+[
+    {
+        "N\u00ba report": 2806,
+        "Texto": "Heart size is normal lungs are clear. No edema or effusions.",
+        "DeepSeek": "NORMAL",
+        "Gold": "NORMAL"
+    },
+    {
+        "N\u00ba report": 3906,
+        "Texto": "Normal cardiac contour. No pleural effusion or pneumothorax. Clear lungs bilaterally.",
+        "DeepSeek": "NORMAL",
+        "Gold": "NORMAL"
+    },
+    {
+        "N\u00ba report": 1235,
+        "Texto": "Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.",
+        "DeepSeek": "NORMAL",
+        "Gold": "Abnormally opaque structure (morphologic abnormality)"
+    },
+    {
+        "N\u00ba report": 3993,
+        "Texto": "The heart is mildly enlarged. Left hemidiaphragm is elevated. There is no acute infiltrate or pleural effusion. The mediastinum is unremarkable.",
+        "DeepSeek": [
+            "mildly enlarged heart",
+            "elevated left hemidiaphragm"
+        ],
+        "Gold": [
+            "Cardiomegaly"
+        ]
+    },
+    {
+        "N\u00ba report": 3534,
+        "Texto": "Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Heart size is normal. Stable right paratracheal prominence, consistent with known calcified lymph node, seen on prior CT chest dated XXXX. XXXX are unremarkable.",
+        "DeepSeek": [
+            "calcified lymph node"
+        ],
+        "Gold": [
+            "Paratracheal lymphadenopathy (UMLS)"
+        ]
+    },
+    {
+        "N\u00ba report": 2923,
+        "Texto": "Clear lungs. Heart and pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal.",
+        "DeepSeek": "NORMAL",
+        "Gold": "NORMAL"
+    },
+    {
+        "N\u00ba report": 3878,
+        "Texto": "Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.",
+        "DeepSeek": [
+            "postop changes of CABG",
+            "mild cardiomegaly",
+            "infiltrate in the right lower lobe",
+            "thoracic spondylosis"
+        ],
+        "Gold": [
+            "Pulmonary Infiltrate (UMLS)",
+            "Thoracic spondylosis",
+            "Cardiomegaly"
+        ]
+    },
+    {
+        "N\u00ba report": 2661,
+        "Texto": "Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+        "DeepSeek": [
+            "mildly enlarged heart",
+            "low lung volumes"
+        ],
+        "Gold": [
+            "Lung hypoinflation",
+            "cardiomegaly"
+        ]
+    },
+    {
+        "N\u00ba report": 3740,
+        "Texto": "XXXX diffuse right lower lobe airspace opacity is present. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+        "DeepSeek": [
+            "diffuse right lower lobe airspace opacity"
+        ],
+        "Gold": [
+            "Abnormally opaque structure (morphologic abnormality)"
+        ]
+    },
+    {
+        "N\u00ba report": 712,
+        "Texto": "The lungs are mildly hyperexpanded. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.",
+        "DeepSeek": [
+            "mildly hyperexpanded lungs"
+        ],
+        "Gold": [
+            "Lung hyperinflation"
+        ]
+    },
+    {
+        "N\u00ba report": 3045,
+        "Texto": "Heart size and vascularity normal. Mediastinal contour normal. Lungs are clear. No pleural effusions or pneumothoraces.",
+        "DeepSeek": "NORMAL",
+        "Gold": "NORMAL"
+    },
+    {
+        "N\u00ba report": 3586,
+        "Texto": "The heart is mildly enlarged. The mediastinal contours are stable. The lungs are clear.",
+        "DeepSeek": [
+            "mildly enlarged heart"
+        ],
+        "Gold": [
+            "Cardiac Hypertrophy",
+            "Cardiomegaly"
+        ]
+    }
+]

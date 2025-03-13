@@ -2,7 +2,7 @@ from ollama import Client
 import re
 import json
 
-def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
+def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}, resultadoAgregado=""):
     try:
         client = Client(host='http://localhost:11434')
     except Exception as e:
@@ -38,10 +38,10 @@ def obtener_respuesta(valor_texto, historial_mensajes=[], jsonIni={}):
 
     #print(content_text)
 
-    response = client.chat(model='deepseek-r1', messages=[
+    response = client.chat(model='deepseek-r1:70b', messages=[
         {
             'role': 'user',
-            'content': content_text,
+            'content': content_text+" "+resultadoAgregado,
         },
     ])
 
@@ -113,10 +113,10 @@ def fix_json_with_ollama(json_text):
         #  print(json_text)
         return None
 
-def intentoBase(textOri, historial_mensajes,resultadoJSONAnnon):
+def intentoBase(textOri, historial_mensajes,resultadoJSONAnnon, resultadoA):
 
     historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes,
-                                                              resultadoJSONAnnon)
+                                                              resultadoJSONAnnon,resultadoA)
     #print(f"Historial_mensajes: {historial_mensajes}")
     #print(f"Texto resultadoAnon: {resultadoAnon['message']['content']}")
     resultadoJSONAnnon2 = extract_json(resultadoAnon['message']['content'])
@@ -127,27 +127,22 @@ def procesaResultado(diccionario_textOri, jsonInitialFindings,identificadores):
     ResultadoSalida = []
     ResultadoErrores = []
     historial_mensajes = []
+    errorAgregado = f"""El JSON No esta bien formado o no contiene al menos la lista inicial."""
     for clave, textOri in diccionario_textOri.items():
 
         if clave in identificadores:
 
-            resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
-                                                                  jsonInitialFindings)
-            if resultadoJSONAnnonUni is None:
+            resultadoJSONAnnonUni = None
+            errorAgregadoA = ""
+
+            while resultadoJSONAnnonUni is None:
 
                 resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
-                                                                      jsonInitialFindings)
-
+                                                                      jsonInitialFindings,errorAgregadoA)
                 if resultadoJSONAnnonUni is None:
+                    errorAgregadoA=errorAgregado
 
-                    resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri, historial_mensajes,
-                                                                          jsonInitialFindings)
-                    if resultadoJSONAnnonUni is None:
-                        dictvalor = dict();
-                        dictvalor["text"] = textOri
-                        dictvalor["res"] = resultadoContent
-                        ResultadoErrores.append(dictvalor)
-                        print("not found", resultadoContent)
+
 
             if resultadoJSONAnnonUni is not None:
                 dictvalor = dict();
@@ -223,7 +218,7 @@ archivo_salidaE = "resultadoFinalNormalDocENN.json "
 
 salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo_salidaE)
 
-
+'''
 
 print("Recorriendo DES:ORI:")
 
@@ -276,3 +271,5 @@ archivo_salida = "resultadoFinalNormalDocDD.json"
 archivo_salidaE = "resultadoFinalNormalDocEDD.json "
 
 salvarSalida(ResultadoSalidaNormalNormal,ResultadoErrores,archivo_salida,archivo_salidaE)
+
+'''

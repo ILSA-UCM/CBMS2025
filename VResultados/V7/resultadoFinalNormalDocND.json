@@ -1,0 +1,79 @@
+[
+    {
+        "clave": "CXR1235",
+        "texto": "Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.",
+        "anotado": [
+            "heart enlargement"
+        ]
+    },
+    {
+        "clave": "CXR2661",
+        "texto": "Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+        "anotado": [
+            {
+                "finding": "cardiomegaly"
+            },
+            {
+                "finding": "low lung volumes"
+            }
+        ]
+    },
+    {
+        "clave": "CXR2806",
+        "texto": "Heart size is normal lungs are clear. No edema or effusions.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR2923",
+        "texto": "Clear lungs. Heart and pulmonary XXXX appear normal. Pleural spaces are clear. Mediastinal contours are normal.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3045",
+        "texto": "Heart size and vascularity normal. Mediastinal contour normal. Lungs are clear. No pleural effusions or pneumothoraces.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3740",
+        "texto": "XXXX diffuse right lower lobe airspace opacity is present. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+        "anotado": [
+            {
+                "finding": "diffuse right lower lobe airspace opacity"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3878",
+        "texto": "Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.",
+        "anotado": [
+            {
+                "finding": "mild cardiomegaly"
+            },
+            {
+                "finding": "infiltrate in the right lower lobe"
+            },
+            {
+                "finding": "thoracic spondylosis"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3906",
+        "texto": "Normal cardiac contour. No pleural effusion or pneumothorax. Clear lungs bilaterally.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3993",
+        "texto": "The heart is mildly enlarged. Left hemidiaphragm is elevated. There is no acute infiltrate or pleural effusion. The mediastinum is unremarkable.",
+        "anotado": [
+            {
+                "finding": "heart enlargement"
+            }
+        ]
+    },
+    {
+        "clave": "CXR712",
+        "texto": "The lungs are mildly hyperexpanded. There is no focal airspace consolidation to suggest pneumonia. No pleural effusion or pneumothorax. Normal heart size and mediastinal contour.",
+        "anotado": []
+    }
+]

@@ -54,15 +54,14 @@ Return **only** a valid JSON array, merging the findings with the existing list 
 - Maintain lowercase `"true"` for boolean values.
 - **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
 - **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
-- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array.
-- If no new findings are identified, return an empty JSON array: []."""
+- **DO NOT** include any explanations, code, or additional text—return **only** the JSON array."""
     )
 
     if len(error)>0:
         content_text = error +". "+content_text
     #print(content_text)
 
-    response = client.chat(model='deepseek-r1', messages=historial_mensajes+
+    response = client.chat(model='deepseek-r1:70b', messages=historial_mensajes+
     [
         {
             'role': 'user',
@@ -81,28 +80,6 @@ Return **only** a valid JSON array, merging the findings with the existing list 
         #  print("No se recibió respuesta")
         return None
 
-
-def mergeJSON(json1,json2) :
-    try:
-        if json1 is None:
-            return json2
-
-        # Convertir en un diccionario para evitar duplicados (clave = "finding")
-        merged_dict = {entry["finding"]: entry for entry in json1}
-
-        # Agregar los elementos de json2 sin duplicar
-        for entry in json2:
-            merged_dict[entry["finding"]] = entry
-
-        # Convertir nuevamente en lista
-        merged_json = list(merged_dict.values())
-
-        return merged_json
-
-    except:
-        ResultadoErroresRaros.append("Error del JSON->"+str(json1)+" ////////  "+str(json2))
-        #print(json1,json2)
-        return json1
 
 def extract_json(text):
     try:
@@ -195,62 +172,48 @@ def intentoBase(textOri,historial_mensajes,resultadoJSONAnnon,error=""):
     else :
         historial_mensajes, resultadoAnon = obtener_respuesta(textOri, historial_mensajes, error=error)
 
-    print(f"Historial_mensajes: {historial_mensajes}")
-    print(f"Texto resultadoAnon: {resultadoAnon['message']['content']}")
+   # print(f"Historial_mensajes: {historial_mensajes}")
+   # print(f"Texto resultadoAnon: {resultadoAnon['message']['content']}")
     resultadoJSONAnnon2 = extract_json(resultadoAnon['message']['content'])
     return resultadoJSONAnnon2, resultadoAnon['message']['content']
 
 
-def produceResultado(archivo_salida,lista):
+def produceResultado(archivo_salida,lista,tp):
     historial_mensajes = []
-    resultadoJSONAnnon = None
-    errorAgregado = f"""output is not well format, expected format as follows .
-    
-    [
-        {{"finding": "hyperinflated lungs"}},
-        {{"finding": "flattened diaphragm"}},
-        {{"finding": "increased retrosternal airspace"}},
-        {{"finding": "pulmonary edema due to acute respiratory distress syndrome (ARDS)"}},
-        {{"finding": "spine dextrocurvature"}},
-        {{"finding": "bronchiectasis"}},
-        {{"finding": "fibrotic scarring"}},
-        {{"finding": "infiltrate in the right middle lobe"}},
-        {{"finding": "lumbar degenerative disc disease"}}
-    ]
-    
-    never return **code**!!! Only the JSON result
-    
-    """
-    for textOri in lista:
+    resultadoJSONAnnon = []
+    errorAgregado = f"""El JSON No esta bien formado o no contiene al menos la lista inicial."""
+    print(lista)
+    for item,value in lista.items():
 
-        resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon)
+            clave = item
+            textOri =value
+            print(f"DocX: {clave}")
+            resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon)
 
-        if resultadoJSONAnnon2 is not None:
-            resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
-        else:
-            resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon,
-                                                                errorAgregado)
-            if resultadoJSONAnnon2 is not None:
-                resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
+            if resultadoJSONAnnon2 is not None and len(resultadoJSONAnnon2)>=len(resultadoJSONAnnon):
+                resultadoJSONAnnon = resultadoJSONAnnon2
             else:
                 resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon,
                                                                     errorAgregado)
-
-                if resultadoJSONAnnon2 is not None:
-                    resultadoJSONAnnon = mergeJSON(resultadoJSONAnnon, resultadoJSONAnnon2)
+                if resultadoJSONAnnon2 is not None and len(resultadoJSONAnnon2)>=len(resultadoJSONAnnon):
+                    resultadoJSONAnnon = resultadoJSONAnnon2
                 else:
-                    dictvalor = dict();
-                    dictvalor["text"] = textOri
-                    dictvalor["res"] = resultadoContent
-                    ResultadoErrores.append(dictvalor)
-                    # print("not found", resultadoContent)
+                    resultadoJSONAnnon2, resultadoContent = intentoBase(textOri, historial_mensajes, resultadoJSONAnnon,
+                                                                        errorAgregado)
+                    if resultadoJSONAnnon2 is not None and len(resultadoJSONAnnon2)>=len(resultadoJSONAnnon):
+                        resultadoJSONAnnon =  resultadoJSONAnnon2
+                    else:
+                        dictvalor = dict();
+                        dictvalor["text"] = textOri
+                        dictvalor["res"] = resultadoContent
+                        ResultadoErrores.append(dictvalor)
+                        # print("not found", resultadoContent)
 
-        # print(f"Texto Original: {textOri}")
-        print(f"Texto JSON: {resultadoJSONAnnon}")
-        print(f"Texto JSONPOS: {resultadoJSONAnnon2}")
-        # print("---")
+            # print(f"Texto Original: {textOri}")
+            print(f"Texto JSON: {resultadoJSONAnnon}")
+            print("---")
 
-    print(f"Texto JSON: {resultadoJSONAnnon}")
+    print(f"Texto JSON Final: {resultadoJSONAnnon}")
 
 
     # Guardar el JSON en el archivo
@@ -266,8 +229,8 @@ with open(archivo_salida, "r", encoding="utf-8") as f:
     datos = json.load(f)
 
 # Crear las listas de textOri y textDesa
-lista_textOri = [objeto["textOri"] for objeto in datos]
-lista_textDesa = [objeto["textDesa"] for objeto in datos]
+lista_textOri = {item["clave"]: item["textOri"] for item in datos}
+lista_textDesa = {item["clave"]: item["textDesa"] for item in datos}
 
 # Imprimir los resultados
 #print("Lista de textOri:", lista_textOri)
@@ -277,15 +240,36 @@ lista_textDesa = [objeto["textDesa"] for objeto in datos]
 ResultadoErrores=[]
 ResultadoErroresRaros=[]
 
+
+# Ruta del archivo
+file_path = "identificadores.txt"
+
+# Leer los identificadores desde el archivo y guardarlos en una lista
+with open(file_path, "r") as f:
+    identificadores = [line.strip() for line in f.readlines()]
+
+
+# Suponiendo que ya tienes lista_textOri, lista_textDesa e identificadores definidos
+
+# Filtrar lista_textOri para conservar solo las claves en identificadores
+lista_textOri_filtrada = {clave: lista_textOri[clave] for clave in identificadores if clave in lista_textOri}
+
+# Filtrar lista_textDesa para conservar solo las claves en identificadores
+lista_textDesa_filtrada = {clave: lista_textDesa[clave] for clave in identificadores if clave in lista_textDesa}
+
+#print("Lista de textOri:", lista_textOri_filtrada)
+#print("Lista de textDesa:", lista_textDesa_filtrada)
+
+
 # Recorrer la lista de textOri con un bucle
 print("Recorriendo textOri:")
 
-produceResultado("resultadoFinalNormal.json", lista_textOri)
+produceResultado("resultadoFinalNormal.json", lista_textOri_filtrada,"textOri")
 
 # Recorrer la lista de textOri con un bucle
 print("Recorriendo textDesa:")
 
-produceResultado("resultadoFinalAnnon.json", lista_textDesa)
+produceResultado("resultadoFinalAnnon.json", lista_textDesa_filtrada,"textDesa")
 
 
 # Nombre del archivo donde se guardará el JSON

@@ -1,0 +1,97 @@
+[
+    {
+        "clave": "CXR1235",
+        "texto": "Lung volumes appear normal. Ground glass opacities are present in the angulate. No focal infiltrates. Heart size normal.",
+        "anotado": [
+            {
+                "finding": "ground glass opacities"
+            }
+        ]
+    },
+    {
+        "clave": "CXR2661",
+        "texto": "Mild cardiomegaly. Low lung volumes without focal consolidation, pneumothorax or large pleural effusion. Negative for acute bone abnormality.",
+        "anotado": [
+            {
+                "finding": "heart mildly enlarged"
+            },
+            {
+                "finding": "low lung volumes without focal consolidation, pneumothorax or large pleural effusion"
+            }
+        ]
+    },
+    {
+        "clave": "CXR2806",
+        "texto": "Heart size is within normal limits. There was no evidence of abnormal enlargement or distortion. Lung function within normal limits. No edema or effusions observed.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR2923",
+        "texto": "Heart and pulmonary -function appear normal. Mediastinal -anatomy are normal.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3045",
+        "texto": "Heart size and vascularity normal; no abnormalities noted. Mediastinal contour con normal; no evidence of mediastinitis or other lung lesions. Lungs clear and normal appearance. No pleuritic effusion, pneumothoretic air leak, or pneumothoraces.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3534",
+        "texto": "Lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Heart size is normal. Stable right paratracheal prominence, consistent with known calcified lymph node, seen on prior CT chest dated March 20, 20XX. Multiple imaging studies are unremarkable.\n\nLungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothoraces. Heart size is normal. Stable right paratracheal prominence, consistent with known calcified lymph node, seen on prior CT chest dated March 20, 20XX. Multiple imaging studies are unremarkable.",
+        "anotado": [
+            {
+                "finding": "stable right paratracheal prominence consistent with known calcified lymph node"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3586",
+        "texto": "The heart is slightly enlarged. The stable mediastinal contour is maintained. The clear lung fields show no signs of infection or consolidation.",
+        "anotado": [
+            {
+                "finding": "heart mildly enlarged"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3740",
+        "texto": "radiographic diffuse right lower lobe airspace opacity is present. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The skeletal structures are normal.",
+        "anotado": [
+            {
+                "finding": "diffuse right lower lobe airspace opacity"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3878",
+        "texto": "Postop changes of CABG with reduced left ventricular ejection fraction. There is an infiltrate in the right lower lobe. Thoracic spondylosis.",
+        "anotado": [
+            {
+                "finding": "reduced left ventricular ejection fraction"
+            },
+            {
+                "finding": "infiltrate in the right lower lobe"
+            },
+            {
+                "finding": "thoracic spondylosis"
+            }
+        ]
+    },
+    {
+        "clave": "CXR3906",
+        "texto": "Normal cardiac contour, negative for pleural effusion or pneumothorax, clear lungs bilateral.",
+        "anotado": []
+    },
+    {
+        "clave": "CXR3993",
+        "texto": "The heart is slightly enlarged. The left hemidiaphragm is elevated above the baseline. There is no acute infective process or pleural effusion. The mediastinum shows no significant findings.",
+        "anotado": [
+            {
+                "finding": "heart is slightly enlarged"
+            },
+            {
+                "finding": "left hemidiaphragm elevated above the baseline"
+            }
+        ]
+    }
+]
