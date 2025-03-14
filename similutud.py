@@ -9,27 +9,41 @@ def desanonimizar_informe_medico(AList, BList, filename):
         print(f"Error al conectarse a la API de OLLAMA: {e}")
         return None
 
-    # Formatear las listas en el contenido del texto
-    first_terminology = '\n'.join(AList)
-    second_terminology = '\n'.join(BList)
+    if AList != BList:
+        # Formatear las listas en el contenido del texto
+        first_terminology = '\n'.join(AList)
+        second_terminology = '\n'.join(BList)
 
-    # Instrucción ajustada
-    content_text = (
-        f"""You must align two medical terminologies, which use different terms. 
+        # Instrucción ajustada
+        content_text = (
+            f"""You must align two medical terminologies, which use different terms. 
+    
+    First terminology:
+    {first_terminology}
+    
+    
+    Second terminology:
+    {second_terminology}
+    
+    
+    For each term X in the second terminology, you must provide those terms Y in the first terminology such that X and Y have similar meanings. The output should consist of lines of the form X -> Y,Z,K,.... where X is a term in the second terminology, and Y,Z,K are terms in the first terminology with similar meanings to X. If there is no term in the first terminology similar to X, X -> (with the right part empty) will appear. In the answer, there will be one line for each term in the second terminology. Generate only the requested output, omitting any other additional text (i.e., explanations, examples, etc.).
+    """
+        )
+    else:
+        first_terminology = '\n'.join(AList)
 
-First terminology:
-{first_terminology}
+        # Instrucción ajustada
+        content_text = (
+            f"""Y: You must determine terms with similar meanings in the following terminology: 
+            
+           {first_terminology}
 
 
-Second terminology:
-{second_terminology}
 
+           For each term X in the terminology, and for terms Y,Z,K, ... other than X, but with similar meanings to X, you must generate a line of the form X -> Y,Z,K, .... If there are no other term with similar meaning to X, you have to generate X ->. Generate only the requested output, omitting any other additional text (i.e., explanations, examples, etc.).
+           """
 
-For each term X in the second terminology, you must provide those terms Y in the first terminology such that X and Y have similar meanings. The output should consist of lines of the form X -> Y,Z,K,.... where X is a term in the second terminology, and Y,Z,K are terms in the first terminology with similar meanings to X. If there is no term in the first terminology similar to X, X -> (with the right part empty) will appear. In the answer, there will be one line for each term in the second terminology. Generate only the requested output, omitting any other additional text (i.e., explanations, examples, etc.).
-"""
-    )
-
-
+        )
 
     # Enviar la solicitud al modelo
     response = client.chat(model='deepseek-r1:70b', messages=[
