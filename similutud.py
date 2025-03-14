@@ -1,6 +1,7 @@
 import json
 from ollama import Client
 
+
 def desanonimizar_informe_medico(AList, BList, filename):
     try:
         client = Client(host='http://localhost:11434')
@@ -28,9 +29,7 @@ For each term X in the second terminology, you must provide those terms Y in the
 """
     )
 
-    # Guardar el contenido en el archivo especificado
-    with open(filename, 'w') as f:
-        f.write(content_text)
+
 
     # Enviar la solicitud al modelo
     response = client.chat(model='deepseek-r1:70b', messages=[
@@ -41,22 +40,22 @@ For each term X in the second terminology, you must provide those terms Y in the
     ])
 
     if response:
+        # Guardar el contenido en el archivo especificado
+        with open(filename, 'w') as f:
+            f.write(response['message']['content'])
         return response['message']['content']
     else:
         print("Error al obtener respuesta del modelo.")
         return None
 
 
-
-
 # Cargar los datos del archivo resultadoFinalNormal.json
-with open('/mnt/data/resultadoFinalNormal.json', 'r') as file:
+with open('resultadoFinalNormal_pDcomentos.json', 'r') as file:
     findings_data = json.load(file)
 
 # Cargar los datos del archivo reports.json
-with open('/mnt/data/reports.json', 'r') as file:
+with open('reports.json', 'r') as file:
     reports_data = json.load(file)
-
 
 # Primer término: GOLD del archivo reports.json
 first_terminology = set()
@@ -70,10 +69,8 @@ for report in reports_data:
 # Segundo término: findings del archivo resultadoFinalNormal.json
 second_terminology = [item["finding"] for item in findings_data]
 
-desanonimizar_informe_medico(first_terminology,first_terminology, "gold_gold.py")
+print(desanonimizar_informe_medico(first_terminology, first_terminology, "gold_gold.txt"))
 
-desanonimizar_informe_medico(second_terminology,second_terminology, "ds_ds.py")
+print(desanonimizar_informe_medico(second_terminology, second_terminology, "ds_ds.txt"))
 
-desanonimizar_informe_medico(first_terminology,second_terminology, "gold_ds.py")
-
-
+print(desanonimizar_informe_medico(first_terminology, second_terminology, "gold_ds.txt"))

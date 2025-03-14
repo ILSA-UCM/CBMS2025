@@ -4,7 +4,7 @@
         "texto": "Lung volumes are XXXX. XXXX opacities are present in the angulate. No focal infiltrates. Heart size normal.",
         "anotado": [
             {
-                "finding": "opacities present in the angulate"
+                "finding": "opacities in the angulate"
             }
         ]
     },
@@ -14,6 +14,9 @@
         "anotado": [
             {
                 "finding": "mild cardiomegaly"
+            },
+            {
+                "finding": "low lung volumes without focal consolidation, pneumothorax or large pleural effusion"
             }
         ]
     },
@@ -60,13 +63,10 @@
         "texto": "Postop changes of CABG with mild cardiomegaly. There is an infiltrate in the right lower lobe. Thoracic spondylosis.",
         "anotado": [
             {
-                "finding": "mildly enlarged heart"
+                "finding": "mild cardiomegaly"
             },
             {
                 "finding": "infiltrate in the right lower lobe"
-            },
-            {
-                "finding": "thoracic spondylosis"
             }
         ]
     },
