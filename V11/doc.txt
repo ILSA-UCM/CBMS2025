@@ -1,0 +1,52 @@
+#CXR1235
+hyperinflated lungs
+flattened diaphragm
+increased retrosternal airspace
+pulmonary edema due to ards
+spine dextrocurvature
+bronchiectasis
+fibrotic scarring
+
+#CXR2661
+hyperinflated lungs
+flattened diaphragm
+
+#CXR2806
+heart size is normal
+
+#CXR2923
+bronchiectasis
+
+#CXR3045
+flattened diaphragm
+
+#CXR3534
+fibrotic scarring
+acute respiratory distress syndrome
+
+#CXR3586
+hyperinflated lungs
+
+#CXR3740
+fibrotic scarring
+
+#CXR3878
+mild cardiomegaly
+fibrotic scarring
+thoracic spondylosis
+
+#CXR3906
+flattened diaphragm
+ARDS
+fibrotic scarring
+infiltrate in the right middle lobe
+
+#CXR3993
+heart enlargement (pulmonary edema)
+left diaphragm elevation
+no acute pleural effusion abnormalities
+
+#CXR712
+hyperinflated lungs
+flattened diaphragm
+increased retrosternal airspace
