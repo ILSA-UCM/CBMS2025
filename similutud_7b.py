@@ -64,7 +64,7 @@ def desanonimizar_informe_medico(AList, BList, filename):
 
 
 # Cargar los datos del archivo resultadoFinalNormal.json
-with open('resultadoFinalNormal_pDcomentos.json', 'r') as file:
+with open('resultadoFinalNormal_pDocumentos.json', 'r') as file:
     findings_data = json.load(file)
 
 # Cargar los datos del archivo reports.json
