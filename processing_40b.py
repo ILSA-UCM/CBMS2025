@@ -36,13 +36,13 @@ print("Recorriendo ORI:ORI:")
 
 # Text ORIGINAL contra lista ORIGINAL
 ResultadoSalidaNormalNormal, ResultadoErrores = (
-    procesaResultado(diccionario_textOri, listaFindings, identificadores, "deepseek-r1"))
+    procesaResultado(diccionario_textOri, listaFindings, identificadores, "deepseek-r1:40b"))
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoFinalNormalDocNN__7.json"
+archivo_salida = "resultadoFinalNormalDocNN__40.json"
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salidaE = "resultadoFinalNormalDocENN__7.json "
+archivo_salidaE = "resultadoFinalNormalDocENN__40.json "
 
 salvarSalida(ResultadoSalidaNormalNormal, ResultadoErrores, archivo_salida, archivo_salidaE)
 

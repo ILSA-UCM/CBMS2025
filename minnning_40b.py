@@ -42,12 +42,12 @@ lista_textDesa_filtrada = {clave: lista_textDesa[clave] for clave in identificad
 # Recorrer la lista de textOri con un bucle
 print("Recorriendo textOri:")
 
-produceResultado("resultadoFinalNormal__7.json", lista_textOri_filtrada,"deepseek-r1")
+produceResultado("resultadoFinalNormal__40.json", lista_textOri_filtrada,"deepseek-r1")
 
 
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoErrores__7.json"
+archivo_salida = "resultadoErrores__40.json"
 
 # Guardar el JSON en el archivo
 with open(archivo_salida, "w", encoding="utf-8") as f:
@@ -56,7 +56,7 @@ with open(archivo_salida, "w", encoding="utf-8") as f:
 print(f"Errores guardados en {archivo_salida}")
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoErroresRaros__7.json"
+archivo_salida = "resultadoErroresRaros__40.json"
 
 # Guardar el JSON en el archivo
 with open(archivo_salida, "w", encoding="utf-8") as f:
