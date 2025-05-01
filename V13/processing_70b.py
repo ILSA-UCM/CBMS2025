@@ -25,7 +25,7 @@ with open(file_path, "r") as f:
     identificadores = [line.strip() for line in f.readlines()]
 
 # Leer el archivo JSON etiquetas
-archivo_salidaNormal = "resultadoFinalNormal__40.json"
+archivo_salidaNormal = "resultadoFinalNormal__70.json"
 with open(archivo_salidaNormal, "r", encoding="utf-8") as f:
     datos = json.load(f)
 
@@ -36,13 +36,13 @@ print("Recorriendo ORI:ORI:")
 
 # Text ORIGINAL contra lista ORIGINAL
 ResultadoSalidaNormalNormal, ResultadoErrores = (
-    procesaResultado(diccionario_textOri, listaFindings, identificadores, "deepseek-r1:40b"))
+    procesaResultado(diccionario_textOri, listaFindings, identificadores, "deepseek-r1:70b"))
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salida = "resultadoFinalNormalDocNN__40.json"
+archivo_salida = "resultadoFinalNormalDocNN__70.json"
 
 # Nombre del archivo donde se guardará el JSON
-archivo_salidaE = "resultadoFinalNormalDocENN__40.json "
+archivo_salidaE = "resultadoFinalNormalDocENN__70.json "
 
 salvarSalida(ResultadoSalidaNormalNormal, ResultadoErrores, archivo_salida, archivo_salidaE)
 
