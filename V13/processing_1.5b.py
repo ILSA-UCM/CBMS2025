@@ -25,7 +25,7 @@ with open(file_path, "r") as f:
     identificadores = [line.strip() for line in f.readlines()]
 
 # Leer el archivo JSON etiquetas
-archivo_salidaNormal = "resultadoFinalNormal.json"
+archivo_salidaNormal = "resultadoFinalNormal__1.5.json"
 with open(archivo_salidaNormal, "r", encoding="utf-8") as f:
     datos = json.load(f)
 

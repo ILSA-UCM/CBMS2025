@@ -125,6 +125,15 @@ def intentoBase(textOri,model, historial_mensajes, resultadoJSONAnnon, resultado
     resultadoJSONAnnon2 = extract_json(resultadoAnon['message']['content'])
     return resultadoJSONAnnon2, resultadoAnon['message']['content']
 
+def es_formato_valido(clave, texto, resultado):
+    if not isinstance(resultado, list):
+        return False
+    for entry in resultado:
+        if not isinstance(entry, dict):
+            return False
+        if 'finding' not in entry:
+            return False
+    return True
 
 def procesaResultado(diccionario_textOri, jsonInitialFindings, identificadores, model):
     ResultadoSalida = []
@@ -142,8 +151,11 @@ def procesaResultado(diccionario_textOri, jsonInitialFindings, identificadores, 
 
                 resultadoJSONAnnonUni, resultadoContent = intentoBase(textOri,model, historial_mensajes,
                                                                       jsonInitialFindings, errorAgregadoA)
-                if resultadoJSONAnnonUni is None:
+
+                if resultadoJSONAnnonUni is None or not es_formato_valido(clave, textOri, resultadoJSONAnnonUni):
                     errorAgregadoA = errorAgregado
+                    resultadoJSONAnnonUni = None
+
 
             if resultadoJSONAnnonUni is not None:
                 dictvalor = dict();
