@@ -76,7 +76,7 @@ def evaluar_resultado_con_equivalencias(
     df_resultados.to_csv(output_csv, index=False)
 
     # === Crear archivo Markdown con equivalencias y métricas
-    with open(output_md, "a") as md:
+    with open(output_md, "a", encoding='utf-8') as md:
         def dump_dict(title, d):
             md.write(f"### {title}\n\n")
             for k in sorted(d):

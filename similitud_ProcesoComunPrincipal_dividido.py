@@ -127,7 +127,7 @@ def generar_equivalencias_y_guardar(
     dump_dict_md("Gold → Gold", equiv_gold_to_gold)
 
     # Vuelve a guardar el markdown actualizado
-    with open(mdSalidaResumen, "w") as f_md:
+    with open(mdSalidaResumen, "w", encoding='utf-8') as f_md:
         for line in md_lines:
             f_md.write(line + "\n")
 

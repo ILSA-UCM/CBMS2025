@@ -9,9 +9,9 @@
 - lumbar degenerative disc disease
 - pleural effusion
 
-### Solo en resultadoFinalNormal__7.json:
+### Solo en V13/resultadoFinalNormal__7.json:
 
-### Solo en resultadoFinalNormalDocNN__7.json:
+### Solo en V13/resultadoFinalNormalDocNN__7.json:
 - advanced degenerative changes
 - aortic calcifications
 - arthritic changes of the spine
@@ -368,11 +368,3 @@
 - Right lung base airspace disease/atelectasis -> Atelectasis
 - Small circular opacities right upper lung -> Interstitial opacities
 - Thoracic aortic calcifications -> Aneurysmal changes, Atherosclerosis
-### Métricas de evaluación
-
-- **Total recuperados (Test expandido)**: 200
-- **Relevantes recuperados (Gold→Test)**: 0
-- **Relevantes totales (Gold expandido)**: 355
-- **Precisión**: 0.00%
-- **Recall**: 0.00%
-- **F Score**: 0.00%
