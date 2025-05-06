@@ -1,12 +1,11 @@
-
 from similitud_ProcesoComunPrincipal import pipeline_evaluacion_con_equivalencias
 
-ResultadoFinalTerminos="resultadoFinalNormal__1.5.json"
-ResultadoFinalTerminosDocumento="resultadoFinalNormalDocNN__1_5.json"
+ResultadoFinalTerminos="resultadoFinalNormal__7.json"
+ResultadoFinalTerminosDocumento="resultadoFinalNormalDocNN__7.json"
 csvGold = "20250430_9e5995.csv"
-deepseek_r___b = "deepseek-r1:1.5b"
-csvSalidaTabla = "resultadoTabla__1.5.csv"
-mdSalidaResumen = "resultadoResumen__1.5.md"
+deepseek_r___b = "deepseek-r1"
+csvSalidaTabla = "resultadoTabla__7.csv"
+mdSalidaResumen = "resultadoResumen__7.md"
 
 pipeline_evaluacion_con_equivalencias(
     ResultadoFinalTerminos=ResultadoFinalTerminos,

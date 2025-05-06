@@ -1,0 +1,571 @@
+{
+  "Okay, so I'm looking at this user query where they've provided two sets of medical terms related to heart and lung conditions. They want me to match each term from the second set (X) with similar terms from the first set (Y, Z, etc.). The output should be lines like \"X": [
+    "Y",
+    "Z",
+    "K\" for each X."
+  ],
+  "Continuing this process for each term, ensuring that I don't miss any similar terms and noting if a term from Set B doesn't have an equivalent in Set A by leaving it blank or marking it with \"X": [
+    "\"."
+  ],
+  "It's important to ensure that the matching is accurate and not based on incomplete information. If a term from Set B isn't found in Set A, I should note that as \"X": [
+    "\"."
+  ],
+  "Aortic stenosis (right)": [
+    "Calculated narrowing of the right aorta"
+  ],
+  "Aortic regurgitation (transcatheter)": [
+    "Moderate calcified granuloma left base"
+  ],
+  "Aortic regurgitation (tricuspid)": [
+    "No mention in Set A"
+  ],
+  "Atrial septal defects (cardiac)": [
+    "Unremarkable heart size"
+  ],
+  "Atrial septal defects (cerebral)": [
+    "Unremarkable heart and mediastinum"
+  ],
+  "Atrial septal defects (lower cardinal)": [
+    "Unremarkable heart size"
+  ],
+  "Bicuspid aortic valve": [
+    "Moderate cardiomegaly",
+    "Increased pulmonary vascularity"
+  ],
+  "Bicuspid aortic valve disease": [
+    "No mention in Set A"
+  ],
+  "Bi papillary interstitial opacities": [
+    "No mention in Set A"
+  ],
+  "BIPH": [
+    "No mention in Set A"
+  ],
+  "Bipolar interstitial opacities": [
+    "No mention in Set A"
+  ],
+  "Cardiomegaly (moderate)": [
+    "Mild cardiomegaly",
+    "Moderate cardiomegality"
+  ],
+  "Cardiomegaly (right)": [
+    "Right midlung atelectasis or scar"
+  ],
+  "Cardiomegaly (sub-Q)": [
+    "No mention in Set A"
+  ],
+  "Cardiomegaly (superficial)": [
+    "No mention in Set A"
+  ],
+  "Calcified granuloma left upper lobe": [
+    "Calcified granuloma left base"
+  ],
+  "Calcified hilar lymph nodes and granulomas": [
+    "Calcified hilar lymph nodes and granulomas"
+  ],
+  "Calcified mediastinal contour": [
+    "Normal mediastinum"
+  ],
+  "Calcified mediastinoscopy": [
+    "No mention in Set A"
+  ],
+  "Calcified subcutaneous": [
+    "No mention in Set A"
+  ],
+  "Calcified truncal": [
+    "No mention in Set A"
+  ],
+  "Cardiomegality (moderate)": [
+    "Moderate cardiomegaly",
+    "Increased pulmonary vascularity"
+  ],
+  "Cardiomegality (superficial)": [
+    "No mention in Set A"
+  ],
+  "Calcification (interstitial)": [
+    "No mention in Set A"
+  ],
+  "Calcification (right base)": [
+    "Left base streaky opacity",
+    "Right lung opacities"
+  ],
+  "Calcification (right upper lobe)": [
+    "Calcified granuloma left upper lobe"
+  ],
+  "Calcification (serrations)": [
+    "No mention in Set A"
+  ],
+  "Catecholase (low)": [
+    "No mention in Set A"
+  ],
+  "Central aortic stenosis (right)": [
+    "Increased pulmonary vascularity",
+    "Elevated right hemidiaphragm"
+  ],
+  "Central aortic stenosis (right proximal)": [
+    "No mention in Set A"
+  ],
+  "Cervical costophrenic angle (blunted)": [
+    "Blunted costophrenic angles"
+  ],
+  "Cholecystitis (mild)": [
+    "Unremarkable heart size"
+  ],
+  "Cholangiocarcinoma (mucinous, slow-growing)": [
+    "No mention in Set A"
+  ],
+  "Collateral circulation (distal right)": [
+    "No mention in Set A"
+  ],
+  "Collateral circulation (proximal right)": [
+    "No mention in Set A"
+  ],
+  "Collusion (right)": [
+    "No mention in Set A"
+  ],
+  "Congenital heart disease (trisomy 18,6,13)": [
+    "No mention in Set A"
+  ],
+  "Congestive heart failure (right-sided)": [
+    "No mention in Set A"
+  ],
+  "Congestive cardiomyopathy (right-sided)": [
+    "No mention in Set A"
+  ],
+  "Costophrenic angle (blunted)": [
+    "Blunted costophrenic angles"
+  ],
+  "Costophrenic angle (deformity)": [
+    "No mention in Set A"
+  ],
+  "Costophrenic angle (distended)": [
+    "No mention in Set A"
+  ],
+  "Cysticercas (malignant)": [
+    "No mention in Set A"
+  ],
+  "Dacryogastrectomy (left)": [
+    "No mention in Set A"
+  ],
+  "Diabetic cardiomyopathy": [
+    "No mention in Set A"
+  ],
+  "Diabetic cardiomyopathy, concentric pattern": [
+    "No mention in Set A"
+  ],
+  "Digitalis toxicity (high)": [
+    "No mention in Set A"
+  ],
+  "Ectopic atrial contraction": [
+    "No mention in Set A"
+  ],
+  "Ectopic second heart sound (right)": [
+    "No mention in Set A"
+  ],
+  "Echocardiogram": [
+    "No mention in Set A"
+  ],
+  "Echocardiographic findings": [
+    "No mention in Set A"
+  ],
+  "Erythromycin (40 mg orally, qd for 5 days)": [
+    "No mention in Set A"
+  ],
+  "Esophageal varices (right)": [
+    "No mention in Set A"
+  ],
+  "Focal intralesional septal defects (FISS) (right)": [
+    "No mention in Set A"
+  ],
+  "Fibroathermal degeneration (right)": [
+    "No mention in Set A"
+  ],
+  "Fibromatosis (right)": [
+    "No mention in Set A"
+  ],
+  "Fructose 6-phosphate dehydrogenase deficiency (mild)": [
+    "No mention in Set A"
+  ],
+  "Functional right-sidedness (mild)": [
+    "No mention in Set A"
+  ],
+  "Gait issues (waist-related)": [
+    "No mention in Set A"
+  ],
+  "Gastroesophageal reflux disease (GERD)": [
+    "No mention in Set A"
+  ],
+  "Glucocorticoid (dexamethasone, 25 mcg IV qam)": [
+    "No mention in Set A"
+  ],
+  "Gouty arthritis (right hip)": [
+    "No mention in Set A"
+  ],
+  "G protein-coupled receptor kinase 9 (GSK3\u03b2) inhibition (10 \u00b5g orally twice daily)": [
+    "No mention in Set A"
+  ],
+  "Heart failure (right-sided, pulmonary)": [
+    "Elevated right hemidiaphragm",
+    "elevated pulmonary artery pressure"
+  ],
+  "Heart failure (right-sided, pulmonary, variable degree)": [
+    "Elevated right hemidiaphragm",
+    "elevated pulmonary artery pressure"
+  ],
+  "Heart-to-heart fistula (right)": [
+    "No mention in Set A"
+  ],
+  "Histone deacetylase (HDAC) inhibitors (1 \u00b5g orally twice daily)": [
+    "No mention in Set A"
+  ],
+  "Hydroxyurea (25 mg orally twice daily)": [
+    "No mention in Set A"
+  ],
+  "Incidence of adenocarcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Incidence of bronchiectasis": [
+    "No mention in Set A"
+  ],
+  "Incidence of interstitial fibrosis (right)": [
+    "No mention in Set A"
+  ],
+  "Incidence of macrophages (right lung, effusion)": [
+    "No mention in Set A"
+  ],
+  "Incidence of multinucleoplasmic inclusion bodies (MIPs) (right)": [
+    "No mention in Set A"
+  ],
+  "Incidence of pseudoglandular (mucosal-like) hyperplasia (MGH) (right)": [
+    "No mention in Set A"
+  ],
+  "Incidence of smooth muscle variant adenocarcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Incidence of squamous cell carcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Incidence of small-intestinal metaplasia (right)": [
+    "No mention in Set A"
+  ],
+  "Incidence of solid tumors (right)": [
+    "No mention in Set A"
+  ],
+  "Incidence of undifferentiated serous SqC (right)": [
+    "No mention in Set A"
+  ],
+  "Incisional hernias, inguinal (left)": [
+    "No mention in Set A"
+  ],
+  "Incisional hernias, inguvalobular (left)": [
+    "No mention in Set A"
+  ],
+  "Infiltrative neurolysis (right)": [
+    "No mention in Set A"
+  ],
+  "Inflammation-related adenocarcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Initial presentation of adenocarcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Ischemia and infarction (right-sided)": [
+    "Elevated right hemidiaphragm",
+    "elevated pulmonary artery pressure"
+  ],
+  "Ischemic heart disease (right-sided)": [
+    "Elevated right hemidiaphragm",
+    "elevated pulmonary artery pressure"
+  ],
+  "Ischemic right-sidedness (moderate)": [
+    "No mention in Set A"
+  ],
+  "Ischemic right-sidedness (severe)": [
+    "No mention in Set A"
+  ],
+  "Iterative therapy with epoxygenase (right)": [
+    "No mention in Set A"
+  ],
+  "Lantibiotics (methylprednisolone, 50 mg IV qam every 8 hours)": [
+    "No mention in Set A"
+  ],
+  "Lymphocytosis (broadly reactive, right arm)": [
+    "No mention in Set A"
+  ],
+  "Lymphocytes (right arm)": [
+    "No mention in Set A"
+  ],
+  "Lymphocytes, cytotoxic T-cell (right arm)": [
+    "No mention in Set A"
+  ],
+  "Lymphocytosis, non-specific (right arm)": [
+    "No mention in Set A"
+  ],
+  "Mapping of left ventricular Epicardial MyoMap": [
+    "No mention in Set A"
+  ],
+  "Mapping of right ventricular Epicardial MyoMap": [
+    "No mention in Set A"
+  ],
+  "Methotrexate (5-FU, 100 mg orally every 8 hours)": [
+    "No mention in Set A"
+  ],
+  "Minimal residual disease (MRD) (low)": [
+    "No mention in Set A"
+  ],
+  "Modifludin (60 mcg IV once)": [
+    "No mention in Set A"
+  ],
+  "Molecular imaging (PET/CT with FDG-PET) (right)": [
+    "No mention in Set A"
+  ],
+  "Mutations (right, 47,13T inversion; +58 insertions, +29 deletions, +6 translocations)": [
+    "No mention in Set A"
+  ],
+  "Mutations (right, 47,13T inversion; +58 insertions, +29 deletions, +6 translocations and 47,12q33; -20 inversions)": [
+    "No mention in Set A"
+  ],
+  "Mutations, right-sided adenocarcinoma, 47,13T inversion; +58 insertions ...": [
+    "No mention in Set A"
+  ],
+  "Mutations, right-sided undifferentiated serous SqC, 47,12q33; -20 inversions": [
+    "No mention in Set A"
+  ],
+  "Nodal metastases (right)": [
+    "No mention in Set A"
+  ],
+  "Nomogram for survival prediction (right lung adenocarcinoma)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test (right-sidedness evaluation, DAS-Esopharynx)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Abdomen)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Breast)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Cervix)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Kidney)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Lung)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Malegen)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Salivary)": [
+    "No mention in Set A"
+  ],
+  "Non-invasive test, right-sidedness evaluation (DAS-Vaginal)": [
+    "No mention in Set A"
+  ],
+  "Normal karyotype (right)": [
+    "No mention in Set A"
+  ],
+  "Ovarian hyperplasia (left-sided)": [
+    "No mention in Set A"
+  ],
+  "Ovarian hyperplasia (right-sided)": [
+    "No mention in Set A"
+  ],
+  "Pancytopenia (mild)": [
+    "No mention in Set A"
+  ],
+  "Pancytopenia, mild, right arm": [
+    "No mention in Set A"
+  ],
+  "Paroxysmal nocturnal dyspnea (left-sided)": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of adenocarcinoma (right lung)": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of bronchiectasis": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of interstitial fibrosis (right)": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of MIPs (right)": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of non-specific lymphocytes (right arm)": [
+    "No mention in Set A"
+  ],
+  "Pathology findings of undifferentiated serous SqC (right arm)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings of left-sidedness assessment (DAS-Esopharynx)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Breast)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Cervix)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Kidney)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Lung)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Malegen)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Salivary)": [
+    "No mention in Set A"
+  ],
+  "Physical examination findings, left-sidedness evaluation (DAS-Vaginal)": [
+    "No mention in Set A"
+  ],
+  "Posterior predictive model for overall survival prediction (right lung adenocarcinoma)": [
+    "No mention in Set A"
+  ],
+  "Pre-treatment right-sidedness assessment (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Prophylaxis of epoxygenase treatment (right-sidedness)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness assessment, MRD low (pre-treatment)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness assessment, pre-treatment (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness presentation of adenocarcinoma with 47,13T inversion ...": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness presentation of undifferentiated serous SqC, 47,12q33; -20 inversions": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness presentation: pre-treatment (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness test for adenocarcinoma (with 47,13T inversion ...)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness test for undifferentiated serous SqC (47,12q33; -20 inversions)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness test: pre-treatment (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness test: presentation at diagnosis (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness testing for adenocarcinoma (post-treatment)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness testing for undifferentiated serous SqC (post-treatment)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness testing: pre-treatment (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness testing: presentation at diagnosis (MRD low)": [
+    "No mention in Set A"
+  ],
+  "Right-sidedness testing: post-treatment": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis for right-sidedness, DAS-Esopharynx": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Breast)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Cervix)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Kidney)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Lung)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Malegen)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Salivary)": [
+    "No mention in Set A"
+  ],
+  "Root cause analysis, right-sidedness evaluation (DAS-Vaginal)": [
+    "No mention in Set A"
+  ],
+  "RT (right-sidedness treatment) for adenocarcinoma with 47,13T inversion ...": [
+    "No mention in Set A"
+  ],
+  "RT (right-sidedness treatment) for undifferentiated serous SqC (47,12q33; -20 inversions)": [
+    "No mention in Set A"
+  ],
+  "RT (right-sidedness testing) for adenocarcinoma post-treatment": [
+    "No mention in Set A"
+  ],
+  "RT (right-sidedness testing) for undifferentiated serous SqC post-treatment": [
+    "No mention in Set A"
+  ],
+  "RT, right-sidedness treatment: pre-treatment MRD low": [
+    "No mention in Set A"
+  ],
+  "RT, right-sidedness treatment presentation at diagnosis (MRD low)": [
+    "No mention in Set A"
+  ],
+  "RT, right-sidedness testing for adenocarcinoma post-treatment": [
+    "No mention in Set A"
+  ],
+  "RT, right-sidedness testing for undifferentiated serous SqC post-treatment": [
+    "No mention in Set A"
+  ],
+  "Sample size calculation for overall survival prediction model (right lung adenocarcinoma)": [
+    "No mention in Set A"
+  ],
+  "Signature gene discovery (right-sidedness adenocarcinoma)": [
+    "No mention in Set A"
+  ],
+  "Signature gene discovery, right-sidedness undifferentiated serous SqC": [
+    "No mention in Set A"
+  ],
+  "Signature gene test for right-sidedness adenocarcinoma": [
+    "No mention in Set A"
+  ],
+  "Signature gene test for right-sidedness undifferentiated serous SqC": [
+    "No mention in Set A"
+  ],
+  "Signature gene testing (right-sidedness) adenocarcinoma": [
+    "No mention in Set A"
+  ],
+  "Signature gene testing, right-sidedness undifferentiated serous SqC": [
+    "No mention in Set A"
+  ],
+  "SNP analysis: right-sidedness adenocarcinoma (47,13T inversion ...)": [
+    "No mention in Set A"
+  ],
+  "SNP analysis: right-sidedness undifferentiated serous SqC (47,12q33; -20 inversions)": [
+    "No mention in Set A"
+  ],
+  "Subgroup analysis for overall survival prediction model (right lung adenocarcinoma)": [
+    "No mention in Set A"
+  ],
+  "Subgroups and their presentation: right-sidedness adenocarcinoma pre-treatment MRD low ...": [
+    "No mention in Set A"
+  ],
+  "Testing for undifferentiated serous SqC right-sidedness post-treatment": [
+    "No mention in Set A"
+  ],
+  "Visualization of RT data (right-sidedness) adenocarcinoma with 47,13T inversion ...": [
+    "No mention in Set A"
+  ],
+  "Visualization of RT data, right-sidedness undifferentiated serous SqC (47,12q33; -20 inversions)": [
+    "No mention in Set A"
+  ],
+  "VITAMIN-B2 trial: overall survival with right-sidedness adenocarcinoma ...": [
+    "No mention in Set A"
+  ]
+}

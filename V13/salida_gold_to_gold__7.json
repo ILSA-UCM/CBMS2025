@@ -1,0 +1,35 @@
+{
+  "Looking for terms like \"Mild degenerative changes of the thoracic spine\"\u2014perhaps this could relate to other spine-related conditions or imaging findings. I should check if there's a better term than K. For each entry, list any synonyms or related medical terms in parentheses after X": [
+    "Y",
+    "Z",
+    "K",
+    "..."
+  ],
+  "Mild degenerative changes of the thoracic spine": [
+    "Spine degeneration"
+  ],
+  "Bibasilar and perihilar interstitial opacities": [
+    "Lung opacities",
+    "Specific opacity patterns"
+  ],
+  "Large right pleural effusion with atelectasis": [
+    "Pleural effusion"
+  ],
+  "Right lung base airspace disease/atelectasis": [
+    "Atelectasis"
+  ],
+  "Calcified granuloma left upper lobe": [
+    "Calcified granulomas"
+  ],
+  "Small circular opacities right upper lung": [
+    "Interstitial opacities"
+  ],
+  "Enlarged cardiac silhouette": [
+    "Cardiomegaly",
+    "Thoracic congestion"
+  ],
+  "Thoracic aortic calcifications": [
+    "Atherosclerosis",
+    "Aneurysmal changes"
+  ]
+}
