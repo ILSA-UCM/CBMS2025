@@ -1,0 +1,242 @@
+
+You must align two medical terminologies, which use different terms.
+
+First terminology:
+aortic unfolding
+cardiomegaly
+fracture of distal right clavicle
+lumbar degenerative disc disease
+pleural effusion
+advanced degenerative changes
+aortic calcifications
+arthritic changes of the spine
+atelectasis
+atherosclerotic calcifications
+calcification over the anterior mediastinum
+degenerative changes of both xxxx joints
+degenerative endplate changes of the spine
+effusion
+emphysema
+focal airspace disease
+hiatal hernia
+large breast mass
+lucency in the right humeral head
+minimal right middle lobe atelectasis
+pleural_effusion
+pneumothorax
+subsegmental atelectasis
+thoracic aortic atherosclerotic calcifications
+thoracic spondylosis
+tortuous thoracic aorta
+unidentified calcified lymph node
+
+Second terminology:
+Mild cardiomegaly
+Mild unfolding of the thoracic aorta
+No focal air space opacity
+No pleural effusion or pneumothorax
+Visualized osseous structures are unremarkable
+Normal heart size
+Unremarkable mediastinum
+Lingula scarring
+Clear lungs
+Angulate opacities
+No focal infiltrates
+No focal consolidation
+No suspicious pulmonary opacities
+No pleural effusions
+No pneumothorax
+Stable left mid lung granuloma
+Normal cardiac contours
+Thoracic spondylosis
+Mildly enlarged heart
+Elevated left hemidiaphragm
+No acute infiltrate or pleural effusion
+Central vascular prominence
+Diffuse bilateral interstitial and alveolar opacities
+Left basilar airspace opacities
+Large heart size
+Normal cardiomediastinal silhouette
+Mildly hyperinflated lungs
+Resolution of bibasilar infiltrates
+Minimal scarring or atelectasis right midlung
+No focal airspace disease
+No pneumothorax or pleural effusion
+Normal heart and pulmonary vasculature
+Normal mediastinal contours
+Mild degenerative changes of the thoracic spine
+Stable mediastinal contours
+Aortic calcifications
+Small calcified lymph nodes
+Emphysema
+Left perihilar upper lobe opacity
+Possible pleural extension
+Low lung volumes
+No focal airspace opacity
+Multilevel degenerative changes in the spine
+Chronic asymmetric elevation of the right hemidiaphragm
+Increased streaky airspace disease right lung base
+Stable hilar prominence
+No pneumothorax or large pleural effusion
+Grossly normal heart size
+No focal consolidation or pneumothorax
+Unremarkable cardio mediastinal silhouette
+Mild multilevel thoracolumbar degenerative disc disease
+Stable upper abdominal midline surgical sutures
+Postop changes of CABG
+Right lower lobe infiltrate
+Normal cardiac and mediastinal silhouettes
+Normal pulmonary vasculature
+Advanced degenerative changes
+Right humeral head lucency
+Mildly hyperlucent lungs
+Denser lumbar scoliosis
+Enlarged heart
+Thoracic aortic atherosclerotic calcifications
+Dense consolidation left lower lobe
+Patchy airspace opacity right lung
+No focal airspace consolidation
+Normal heart size and mediastinal contour
+Degenerative changes of the spine
+Stable mediastinum
+Right chest tip at cavoatrial junction
+Elevated right hemidiaphragm with right-sided pleural effusion
+Vague right upper lobe opacities
+Clear left lung
+Drainage catheter right upper quadrant
+Hyperinflated lungs
+Coarse interstitial markings
+Chronic pleural-parenchymal scarring
+No lobar consolidation
+Stable right chest wall pacemaker
+Stable cardiomegaly
+Calcified thoracic aorta
+Stable mild interstitial opacities
+Unchanged dense retrocardiac opacities
+No pneumothorax or large effusion
+No focal consolidation or large pleural effusion
+No acute bone abnormality
+Lobulated opacity anterior mediastinum
+Tortuous/calcified thoracic aorta
+Hyperexpanded lungs
+Severe degenerative changes of the thoracic spine
+Vascular calcification
+No pleural effusions or pneumothoraces
+Normal heart and mediastinum
+Degenerative changes in the spine
+Large hiatal hernia
+Diffuse right lower lobe airspace opacity
+Normal skeletal structures
+Calcified granulomas
+Calcified hilar lymph nodes
+Degenerative changes thoracic spine
+Tortuous thoracic aorta
+Tortuous aorta
+Extensive degenerative changes of the thoracic spine
+No pneumothorax or significant pulmonary edema
+Small left pleural effusion
+No focal lung consolidation
+Mildly low lung volumes
+No acute abnormality
+Mild tortuosity of the thoracic aorta
+Mildly hyperexpanded lungs
+No focal airspace consolidations
+No pleural effusion
+Degenerative changes of the midthoracic spine
+Stable coronary stent
+Sternotomy changes
+No mediastinal widening
+No large pleural effusion or pneumothorax
+Mild dextro curvature of the thoracic spine
+Postoperative sternotomy changes
+Cardiomegaly
+Prominent ascending aorta (aneurysm)
+Minimal degenerative changes of the spine
+Borderline enlarged heart
+Tortuous/ectatic thoracic aorta
+No focal pulmonary opacity
+Fracture of distal right clavicle
+Atherosclerosis of the aorta
+Minimal left lung base densities
+No acute bony abnormalities
+Hyperinflated lungs (emphysema)
+Biapical scarring
+No acute infiltrate
+No focal consolidation or pleural effusion
+Tortuous descending thoracic aorta
+Central venous catheter
+No focal airspace opacities
+Moderate cardiomegaly
+Bibasilar and perihilar interstitial opacities
+Large right pleural effusion with atelectasis
+Right lung opacities
+Stable cardio mediastinal silhouette
+Increased pulmonary vascularity
+Elevated right hemidiaphragm
+Right lung base airspace disease/atelectasis
+Left base streaky opacity
+Blunted costophrenic angles
+Calcified granuloma left upper lobe
+Normal heart size and pulmonary vascularity
+Unremarkable mediastinal contour
+No acute bony findings
+No cardiac enlargement
+No vascular congestion
+Small circular opacities right upper lung
+No bony abnormality
+Enlarged cardiac silhouette
+Status post sternotomy and CABG
+Left midlung atelectasis or scar
+Blunted left costophrenic angle
+Surgical clips at thoracic inlet
+Left base scarring
+Hyperinflation
+Anterior mediastinal calcification
+Normal heart
+Arthritic changes of the spine
+Atherosclerotic calcifications of the aorta
+Known large breast mass
+Upper normal heart size
+Minimal right middle lobe atelectasis
+Degenerative endplate changes of the spine
+Interval enlargement of the cardiac silhouette
+Normally inflated and clear lungs
+Normal osseous structures
+Streaky bibasilar airspace opacities
+No acute osseous findings
+Mild dextroscoliosis
+Prior anterior cervical fusion
+Stable small calcified granuloma left base
+No acute findings
+Unremarkable heart and mediastinum
+No effusion or pneumothorax
+Mild anterior deformities L1-L2
+Retropulsion of L1
+Bilateral interstitial opacities
+No pleural effusions or pneumothorax
+Moderate degenerative changes of the thoracic spine
+Bibasilar pleural scarring
+No pneumothorax or effusion
+Normal pulmonary vascularity
+Calcified hilar lymph nodes and granulomas
+Stable degenerative changes in the spine
+Relatively clear lungs
+Unfolded aorta
+Moderate hiatal hernia
+T-spine osteophytes and DISH
+No focal infiltrate or suspicious opacity
+Lucency right lung base (skin fold)
+Moderately enlarged heart
+Left midlung and basilar opacities (atelectasis)
+Improved right midlung opacity
+Mild degenerative changes of the spine
+Intact sternotomy wires
+Extensive atherosclerotic disease
+No alveolar consolidation or pleural effusion
+S-shaped spine curvature
+Retrocardiac soft tissue density (possible hiatal hernia)
+Calcified granuloma
+Left lung base bandlike opacity (atelectasis)
+Osteopenia
+
+For each term X in the second terminology, you must provide those terms Y in the first terminology such that X and Y have similar meanings. The output should consist of lines of the form X -> Y,Z,K,.... If no similar terms exist, use X ->. Only generate the output.

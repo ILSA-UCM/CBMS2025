@@ -1,0 +1,32 @@
+
+You must determine terms with similar meanings in the following terminology:
+
+aortic unfolding
+cardiomegaly
+fracture of distal right clavicle
+lumbar degenerative disc disease
+pleural effusion
+advanced degenerative changes
+aortic calcifications
+arthritic changes of the spine
+atelectasis
+atherosclerotic calcifications
+calcification over the anterior mediastinum
+degenerative changes of both xxxx joints
+degenerative endplate changes of the spine
+effusion
+emphysema
+focal airspace disease
+hiatal hernia
+large breast mass
+lucency in the right humeral head
+minimal right middle lobe atelectasis
+pleural_effusion
+pneumothorax
+subsegmental atelectasis
+thoracic aortic atherosclerotic calcifications
+thoracic spondylosis
+tortuous thoracic aorta
+unidentified calcified lymph node
+
+For each term X, generate X -> Y,Z,K,... for related terms, or X -> if none. Only generate the output.

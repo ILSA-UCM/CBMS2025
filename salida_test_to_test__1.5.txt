@@ -1,0 +1,77 @@
+bronchiectasis ->
+fibrotic scarring -> fibro scarring, pulmonary scarring, scarring on the left base
+flattened diaphragm -> flatened diaphragm
+hyperinflated lungs -> inflated lungs, emphysema
+increased retrosternal airspace ->
+infiltrate in the right middle lobe -> filtrate in the right middle lobe, coping disease in right middle lobe, fibrosis in the right middle lobe
+lumbar degenerative disc disease -> fibrotic disc, advanced degenerative changes in the lumbar bilaterally
+pulmonary edema due to acute respiratory distress syndrome (ards) -> pulmonary edema due toards, pulmonary edema due to ard, pulmonary edema due to ardes, pulmonary edema due to arthralys, pulmonary edema due toards respiratory distress syndrome (ards), pulmonary edema due toardsards, pulmonary edema dueards
+spine dextrocurvature -> spinal dextrocurvature
+advanced degenerative changes in the lumbar bilaterally -> lumbar degenerative disc disease
+air space/diffusion disease/opacity -> left lower lobe air space opacity, patchy airspace opacity in the right lung
+aortic calcifications -> thoracic aortic atherosclerotic calcifications
+ard -> ards, ardis, ards (acute respiratory distress syndrome)
+ardis -> ard, ards, ards (acute respiratory distress syndrome)
+ards -> ard, ardis, ards (acute respiratory distress syndrome)
+ards (acute respiratory distress syndrome) -> ard, ardis, ards
+associated atelectatic collapse of the right middle lobe -> subsegmental atelectasis
+atelectasis in the left midlung -> subsegmental atelectasis
+breast prostheses ->
+calcified granuloma -> calcified granulomas, stable left mid lung granuloma
+calcified granulomas -> calcified granuloma, stable left mid lung granuloma
+calcified hilar ->
+cardiomegaly -> mild cardiomegaly, mildly enlarged heart, stability of cardiomegaly
+coping disease in right middle lobe -> infiltrate in the right middle lobe, fibrosis in the right middle lobe
+dense consolidation within retrocardiac left lower lobe ->
+drainage catheter overlying the right upper quadrant ->
+elevation of right hemidiaphragm ->
+emphysema -> hyperinflated lungs
+fibro scarring -> fibrotic scarring, pulmonary scarring, scarring on the left base
+fibrosis in the right middle lobe -> infiltrate in the right middle lobe, coping disease in right middle lobe
+fibrotic disc -> lumbar degenerative disc disease
+filtrate in the right middle lobe -> infiltrate in the right middle lobe, coping disease in right middle lobe
+flatened diaphragm -> flattened diaphragm
+heart size and pulmonary vascular engorgement -> increased vascularity
+increased vascularity -> heart size and pulmonary vascular engorgement
+inflated lungs -> hyperinflated lungs, emphysema
+interstitial opacities ->
+interval enlargement in cardiac silhouette -> cardiomegaly
+left lower lobe air space opacity -> air space/diffusion disease/opacity
+low lung volumes without focal consolidation ->
+lucency in the right humeral head with geographic 1a margins ->
+lungscc ->
+mediastinal contour -> mediastinal contours stable
+mediastinal contours stable -> mediastinal contour
+mild cardiomegaly -> cardiomegaly, mildly enlarged heart
+mildly enlarged heart -> cardiomegaly, mild cardiomegaly
+no clinically significant finding or disease identified. ->
+no pneumothorax -> pneumothorax or large pleural effusion
+patchy airspace opacity in the right lung -> air space/diffusion disease/opacity
+pleural effusion -> small left pleural effusion, right-sided pleural effusion, pleural effusion or airspace consolidation
+pleural effusion or airspace consolidation -> pleural effusion
+pneumothorax -> no pneumothorax, pneumothorax or large pleural effusion
+pneumothorax or large pleural effusion -> pneumothorax, no pneumothorax
+pulmonary edema due to ard -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema due to ardes -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema due to arthralys -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema due to fibrotic scarring ->
+pulmonary edema due toards -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema due toards respiratory distress syndrome (ards) -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema due toardsards -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary edema dueards -> pulmonary edema due to acute respiratory distress syndrome (ards)
+pulmonary scarring -> fibrotic scarring, fibro scarring, scarring on the left base
+question large pulmonary arteries ->
+right chest xxxx tip ->
+right lower lobe airspace opacity ->
+right-sided pleural effusion -> pleural effusion, small left pleural effusion
+scarring on the left base -> fibrotic scarring, fibro scarring, pulmonary scarring
+small left pleural effusion -> pleural effusion, right-sided pleural effusion
+spinal dextrocurvature -> spine dextrocurvature
+stability of aorta -> thoracic aorta
+stability of cardiomegaly -> cardiomegaly
+stable left mid lung granuloma -> calcified granuloma, calcified granulomas
+subsegmental atelectasis -> atelectasis in the left midlung, associated atelectatic collapse of the right middle lobe
+thoracic aorta -> stability of aorta, thoracic aortic atherosclerotic calcifications
+thoracic aortic atherosclerotic calcifications -> aortic calcifications, thoracic aorta
+thoracic spondylosis ->
+vague opacities in the right upper lobe ->

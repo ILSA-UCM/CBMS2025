@@ -1,5 +1,13 @@
 import json
 import pandas as pd
+import math
+
+def limpiar_lista_terminos(lista):
+    return [
+        t.strip()
+        for t in lista
+        if isinstance(t, str) and t.strip().lower() != 'nan' and t.strip() != ''
+    ]
 
 def evaluar_resultado_con_equivalencias(
     json_test_file,
@@ -32,6 +40,7 @@ def evaluar_resultado_con_equivalencias(
         texto = doc["texto"]
         test_terms = [a["finding"].strip().lower() for a in doc.get("anotado", []) if a.get("finding")]
         gold_terms = gold_dict.get(doc_id, [])
+        gold_terms = limpiar_lista_terminos(gold_terms)
 
         # Expandir test_terms con Test → Test
         test_expanded = set(test_terms)

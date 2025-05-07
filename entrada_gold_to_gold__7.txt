@@ -1,0 +1,209 @@
+Here is the grouped output for terms with similar meanings:
+
+Mild cardiomegaly -> Mildly enlarged heart, Borderline enlarged heart, Cardiomegaly, Enlarged heart, Moderate cardiomegaly, Enlarged cardiac silhouette
+Mild unfolding of the thoracic aorta -> Unfolded aorta, Tortuous thoracic aorta, Tortuous aorta, Tortuous/calcified thoracic aorta, Tortuous/ectatic thoracic aorta, Mild tortuosity of the thoracic aorta
+No focal air space opacity -> No focal airspace opacity, No focal airspace disease, No focal pulmonary opacity, No focal airspace opacities, No focal airspace consolidations, No focal lung consolidation
+No pleural effusion or pneumothorax -> No pleural effusions, No pneumothorax, No pneumothorax or pleural effusion, No pleural effusions or pneumothoraces, No effusion or pneumothorax, No pneumothorax or effusion
+Visualized osseous structures are unremarkable -> Normal skeletal structures, Normal osseous structures, No acute bone abnormality, No acute bony abnormalities, No acute bony findings, No bony abnormality
+Normal heart size -> Grossly normal heart size, No cardiac enlargement, Normal cardiac contours, Normal heart, Normal heart size and mediastinal contour, Normal heart size and pulmonary vascularity
+Unremarkable mediastinum -> Normal mediastinal contours, Stable mediastinal contours, Stable mediastinum, No mediastinal widening, Unremarkable mediastinal contour
+Lingula scarring -> Left base scarring, Biapical scarring, Chronic pleural-parenchymal scarring, Bibasilar pleural scarring, Minimal scarring or atelectasis right midlung
+Clear lungs -> Relatively clear lungs, Normally inflated and clear lungs, Clear left lung, No acute infiltrate
+Angulate opacities -> Left basilar airspace opacities, Patchy airspace opacity right lung, Bibasilar and perihilar interstitial opacities, Streaky bibasilar airspace opacities
+No focal infiltrates -> No acute infiltrate, No focal infiltrate or suspicious opacity, No suspicious pulmonary opacities
+No focal consolidation -> No lobar consolidation, No alveolar consolidation, No focal airspace consolidation, No focal consolidation or pleural effusion
+No suspicious pulmonary opacities -> No focal infiltrate or suspicious opacity, No acute infiltrate
+No pleural effusions -> No pleural effusion, No small left pleural effusion
+No pneumothorax -> No pneumothorax or large pleural effusion, No pneumothorax or effusion
+Stable left mid lung granuloma -> Calcified granuloma, Calcified granulomas, Calcified granuloma left upper lobe, Stable small calcified granuloma left base
+Normal cardiac contours -> Normal heart size, Normal cardiomediastinal silhouette, Normal cardiac and mediastinal silhouettes
+Thoracic spondylosis -> Degenerative changes of the thoracic spine, Degenerative changes thoracic spine, Mild degenerative changes of the thoracic spine
+Mildly enlarged heart -> Mild cardiomegaly, Borderline enlarged heart, Cardiomegaly, Enlarged heart
+Elevated left hemidiaphragm -> Elevated right hemidiaphragm, Chronic asymmetric elevation of the right hemidiaphragm
+No acute infiltrate or pleural effusion -> No acute infiltrate, No acute findings
+Central vascular prominence -> Increased pulmonary vascularity, Prominent ascending aorta (aneurysm)
+Diffuse bilateral interstitial and alveolar opacities -> Bilateral interstitial opacities, Coarse interstitial markings, Stable mild interstitial opacities
+Left basilar airspace opacities -> Left midlung and basilar opacities (atelectasis), Left base streaky opacity
+Large heart size -> Cardiomegaly, Enlarged heart, Enlarged cardiac silhouette
+Normal cardiomediastinal silhouette -> Stable cardio mediastinal silhouette, Unremarkable cardio mediastinal silhouette
+Mildly hyperinflated lungs -> Hyperinflated lungs, Hyperexpanded lungs, Mildly hyperexpanded lungs, Hyperinflated lungs (emphysema)
+Resolution of bibasilar infiltrates -> Improved right midlung opacity
+Minimal scarring or atelectasis right midlung -> Minimal right middle lobe atelectasis, Left midlung atelectasis or scar
+No focal airspace disease -> No focal air space opacity
+No pneumothorax or pleural effusion -> No pneumothorax or large effusion
+Normal heart and pulmonary vasculature -> Normal pulmonary vascularity, No vascular congestion
+Normal mediastinal contours -> Unremarkable mediastinum
+Mild degenerative changes of the thoracic spine -> Thoracic spondylosis, Degenerative changes thoracic spine
+Stable mediastinal contours -> Stable mediastinum
+Aortic calcifications -> Thoracic aortic atherosclerotic calcifications, Atherosclerosis of the aorta, Atherosclerotic calcifications of the aorta
+Small calcified lymph nodes -> Calcified hilar lymph nodes, Calcified hilar lymph nodes and granulomas
+Emphysema -> Hyperinflated lungs (emphysema)
+Left perihilar upper lobe opacity -> Vague right upper lobe opacities
+Possible pleural extension -> Small left pleural effusion, Blunted costophrenic angles
+Low lung volumes -> Mildly low lung volumes
+No focal airspace opacity -> No focal air space opacity
+Multilevel degenerative changes in the spine -> Advanced degenerative changes, Severe degenerative changes of the thoracic spine
+Chronic asymmetric elevation of the right hemidiaphragm -> Elevated right hemidiaphragm
+Increased streaky airspace disease right lung base -> Right lung base airspace disease/atelectasis
+Stable hilar prominence ->
+No pneumothorax or large pleural effusion -> No pneumothorax or large effusion
+Grossly normal heart size -> Normal heart size
+No focal consolidation or pneumothorax -> No focal consolidation
+Unremarkable cardio mediastinal silhouette -> Normal cardiomediastinal silhouette
+Mild multilevel thoracolumbar degenerative disc disease -> Degenerative changes of the spine
+Stable upper abdominal midline surgical sutures ->
+Postop changes of CABG -> Status post sternotomy and CABG
+Right lower lobe infiltrate -> Diffuse right lower lobe airspace opacity
+Normal cardiac and mediastinal silhouettes -> Normal cardiomediastinal silhouette
+Normal pulmonary vasculature -> Normal heart and pulmonary vasculature
+Advanced degenerative changes -> Severe degenerative changes of the thoracic spine
+Right humeral head lucency ->
+Mildly hyperlucent lungs -> Mildly hyperinflated lungs
+Denser lumbar scoliosis -> S-shaped spine curvature, Mild dextroscoliosis
+Enlarged heart -> Cardiomegaly, Mildly enlarged heart
+Thoracic aortic atherosclerotic calcifications -> Aortic calcifications
+Dense consolidation left lower lobe ->
+Patchy airspace opacity right lung -> Right lung opacities
+No focal airspace consolidation -> No focal consolidation
+Normal heart size and mediastinal contour -> Normal cardiomediastinal silhouette
+Degenerative changes of the spine -> Thoracic spondylosis
+Stable mediastinum -> Unremarkable mediastinum
+Right chest tip at cavoatrial junction -> Surgical clips at thoracic inlet
+Elevated right hemidiaphragm with right-sided pleural effusion -> Large right pleural effusion with atelectasis
+Vague right upper lobe opacities -> Left perihilar upper lobe opacity
+Clear left lung -> Clear lungs
+Drainage catheter right upper quadrant -> Central venous catheter
+Hyperinflated lungs -> Mildly hyperinflated lungs
+Coarse interstitial markings -> Diffuse bilateral interstitial and alveolar opacities
+Chronic pleural-parenchymal scarring -> Lingula scarring
+No lobar consolidation -> No focal consolidation
+Stable right chest wall pacemaker ->
+Stable cardiomegaly -> Cardiomegaly
+Calcified thoracic aorta -> Aortic calcifications
+Stable mild interstitial opacities -> Diffuse bilateral interstitial and alveolar opacities
+Unchanged dense retrocardiac opacities ->
+No pneumothorax or large effusion -> No pneumothorax or large pleural effusion
+No focal consolidation or large pleural effusion -> No focal consolidation
+No acute bone abnormality -> No acute bony findings
+Lobulated opacity anterior mediastinum -> Anterior mediastinal calcification
+Tortuous/calcified thoracic aorta -> Tortuous thoracic aorta
+Hyperexpanded lungs -> Hyperinflated lungs
+Severe degenerative changes of the thoracic spine -> Advanced degenerative changes
+Vascular calcification -> Aortic calcifications
+No pleural effusions or pneumothoraces -> No pleural effusion or pneumothorax
+Normal heart and mediastinum -> Unremarkable heart and mediastinum
+Degenerative changes in the spine -> Thoracic spondylosis
+Large hiatal hernia -> Moderate hiatal hernia
+Diffuse right lower lobe airspace opacity -> Right lower lobe infiltrate
+Normal skeletal structures -> Visualized osseous structures are unremarkable
+Calcified granulomas -> Calcified granuloma
+Calcified hilar lymph nodes -> Small calcified lymph nodes
+Degenerative changes thoracic spine -> Thoracic spondylosis
+Tortuous thoracic aorta -> Tortuous aorta
+Tortuous aorta -> Tortuous thoracic aorta
+Extensive degenerative changes of the thoracic spine -> Severe degenerative changes of the thoracic spine
+No pneumothorax or significant pulmonary edema -> No pneumothorax
+Small left pleural effusion -> Possible pleural extension
+No focal lung consolidation -> No focal consolidation
+Mildly low lung volumes -> Low lung volumes
+No acute abnormality -> No acute findings
+Mild tortuosity of the thoracic aorta -> Tortuous thoracic aorta
+Mildly hyperexpanded lungs -> Mildly hyperinflated lungs
+No focal airspace consolidations -> No focal consolidation
+No pleural effusion -> No pleural effusions
+Degenerative changes of the midthoracic spine -> Thoracic spondylosis
+Stable coronary stent ->
+Sternotomy changes -> Postoperative sternotomy changes
+No mediastinal widening ->
+No large pleural effusion or pneumothorax -> No pneumothorax or large pleural effusion
+Mild dextro curvature of the thoracic spine -> Mild dextroscoliosis
+Postoperative sternotomy changes -> Sternotomy changes
+Cardiomegaly -> Enlarged heart
+Prominent ascending aorta (aneurysm) ->
+Minimal degenerative changes of the spine -> Mild degenerative changes of the thoracic spine
+Borderline enlarged heart -> Mild cardiomegaly
+Tortuous/ectatic thoracic aorta -> Tortuous thoracic aorta
+No focal pulmonary opacity -> No focal air space opacity
+Fracture of distal right clavicle ->
+Atherosclerosis of the aorta -> Aortic calcifications
+Minimal left lung base densities -> Left base streaky opacity
+No acute bony abnormalities -> No acute bone abnormality
+Hyperinflated lungs (emphysema) -> Hyperinflated lungs
+Biapical scarring -> Lingula scarring
+No acute infiltrate -> No acute infiltrate or pleural effusion
+No focal consolidation or pleural effusion -> No focal consolidation
+Tortuous descending thoracic aorta -> Tortuous thoracic aorta
+Central venous catheter -> Drainage catheter right upper quadrant
+No focal airspace opacities -> No focal air space opacity
+Moderate cardiomegaly -> Cardiomegaly
+Bibasilar and perihilar interstitial opacities -> Angulate opacities
+Large right pleural effusion with atelectasis -> Elevated right hemidiaphragm with right-sided pleural effusion
+Right lung opacities -> Patchy airspace opacity right lung
+Stable cardio mediastinal silhouette -> Normal cardiomediastinal silhouette
+Increased pulmonary vascularity -> Central vascular prominence
+Elevated right hemidiaphragm -> Chronic asymmetric elevation of the right hemidiaphragm
+Right lung base airspace disease/atelectasis -> Increased streaky airspace disease right lung base
+Left base streaky opacity -> Minimal left lung base densities
+Blunted costophrenic angles -> Possible pleural extension
+Calcified granuloma left upper lobe -> Calcified granuloma
+Normal heart size and pulmonary vascularity -> Normal heart and pulmonary vasculature
+Unremarkable mediastinal contour -> Unremarkable mediastinum
+No acute bony findings -> No acute bone abnormality
+No cardiac enlargement -> Normal heart size
+No vascular congestion -> Normal pulmonary vascularity
+Small circular opacities right upper lung -> Vague right upper lobe opacities
+No bony abnormality -> No acute bone abnormality
+Enlarged cardiac silhouette -> Large heart size
+Status post sternotomy and CABG -> Postop changes of CABG
+Left midlung atelectasis or scar -> Minimal scarring or atelectasis right midlung
+Blunted left costophrenic angle -> Possible pleural extension
+Surgical clips at thoracic inlet -> Right chest tip at cavoatrial junction
+Left base scarring -> Lingula scarring
+Hyperinflation -> Hyperinflated lungs
+Anterior mediastinal calcification -> Lobulated opacity anterior mediastinum
+Normal heart -> Normal heart size
+Arthritic changes of the spine -> Degenerative changes of the spine
+Atherosclerotic calcifications of the aorta -> Aortic calcifications
+Known large breast mass ->
+Upper normal heart size -> Borderline enlarged heart
+Minimal right middle lobe atelectasis -> Minimal scarring or atelectasis right midlung
+Degenerative endplate changes of the spine -> Degenerative changes of the spine
+Interval enlargement of the cardiac silhouette -> Enlarged cardiac silhouette
+Normally inflated and clear lungs -> Clear lungs
+Normal osseous structures -> Visualized osseous structures are unremarkable
+Streaky bibasilar airspace opacities -> Angulate opacities
+No acute osseous findings -> No acute bone abnormality
+Mild dextroscoliosis -> Mild dextro curvature of the thoracic spine
+Prior anterior cervical fusion ->
+Stable small calcified granuloma left base -> Calcified granuloma
+No acute findings -> No acute abnormality
+Unremarkable heart and mediastinum -> Normal heart and mediastinum
+No effusion or pneumothorax -> No pleural effusion or pneumothorax
+Mild anterior deformities L1-L2 ->
+Retropulsion of L1 ->
+Bilateral interstitial opacities -> Diffuse bilateral interstitial and alveolar opacities
+No pleural effusions or pneumothorax -> No pleural effusion or pneumothorax
+Moderate degenerative changes of the thoracic spine -> Thoracic spondylosis
+Bibasilar pleural scarring -> Lingula scarring
+No pneumothorax or effusion -> No pleural effusion or pneumothorax
+Normal pulmonary vascularity -> Normal heart and pulmonary vasculature
+Calcified hilar lymph nodes and granulomas -> Calcified hilar lymph nodes
+Stable degenerative changes in the spine -> Degenerative changes of the spine
+Relatively clear lungs -> Clear lungs
+Unfolded aorta -> Mild unfolding of the thoracic aorta
+Moderate hiatal hernia -> Large hiatal hernia
+T-spine osteophytes and DISH ->
+No focal infiltrate or suspicious opacity -> No suspicious pulmonary opacities
+Lucency right lung base (skin fold) ->
+Moderately enlarged heart -> Cardiomegaly
+Left midlung and basilar opacities (atelectasis) -> Left basilar airspace opacities
+Improved right midlung opacity -> Resolution of bibasilar infiltrates
+Mild degenerative changes of the spine -> Thoracic spondylosis
+Intact sternotomy wires -> Sternotomy changes
+Extensive atherosclerotic disease -> Aortic calcifications
+No alveolar consolidation or pleural effusion -> No focal consolidation
+S-shaped spine curvature -> Denser lumbar scoliosis
+Retrocardiac soft tissue density (possible hiatal hernia) ->
+Calcified granuloma -> Calcified granulomas
+Left lung base bandlike opacity (atelectasis) -> Left basilar airspace opacities
+Osteopenia ->

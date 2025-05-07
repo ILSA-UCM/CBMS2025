@@ -1,0 +1,82 @@
+
+You must determine terms with similar meanings in the following terminology:
+
+bronchiectasis
+fibrotic scarring
+flattened diaphragm
+hyperinflated lungs
+increased retrosternal airspace
+infiltrate in the right middle lobe
+lumbar degenerative disc disease
+pulmonary edema due to acute respiratory distress syndrome (ards)
+spine dextrocurvature
+advanced degenerative changes in the lumbar bilaterally
+air space/diffusion disease/opacity
+aortic calcifications
+ard
+ardis
+ards
+ards (acute respiratory distress syndrome)
+associated atelectatic collapse of the right middle lobe
+atelectasis in the left midlung
+breast prostheses
+calcified granuloma
+calcified granulomas
+calcified hilar
+cardiomegaly
+coping disease in right middle lobe
+dense consolidation within retrocardiac left lower lobe
+drainage catheter overlying the right upper quadrant
+elevation of right hemidiaphragm
+emphysema
+fibro scarring
+fibrosis in the right middle lobe
+fibrotic disc
+filtrate in the right middle lobe
+flatened diaphragm
+heart size and pulmonary vascular engorgement
+increased vascularity
+inflated lungs
+interstitial opacities
+interval enlargement in cardiac silhouette
+left lower lobe air space opacity
+low lung volumes without focal consolidation
+lucency in the right humeral head with geographic 1a margins
+lungscc
+mediastinal contour
+mediastinal contours stable
+mild cardiomegaly
+mildly enlarged heart
+no clinically significant finding or disease identified.
+no pneumothorax
+patchy airspace opacity in the right lung
+pleural effusion
+pleural effusion or airspace consolidation
+pneumothorax
+pneumothorax or large pleural effusion
+pulmonary edema due to ard
+pulmonary edema due to ardes
+pulmonary edema due to arthralys
+pulmonary edema due to fibrotic scarring
+pulmonary edema due toards
+pulmonary edema due toards respiratory distress syndrome (ards)
+pulmonary edema due toardsards
+pulmonary edema dueards
+pulmonary scarring
+question large pulmonary arteries
+right chest xxxx tip
+right lower lobe airspace opacity
+right-sided pleural effusion
+scarring on the left base
+small left pleural effusion
+spinal dextrocurvature
+stability of aorta
+stability of cardiomegaly
+stable left mid lung granuloma
+subsegmental atelectasis
+thoracic aorta
+thoracic aortic atherosclerotic calcifications
+thoracic spondylosis
+vague opacities in the right upper lobe
+
+For each term X, generate X -> Y,Z,K,... for related terms, or X -> if none. Only generate the output.
