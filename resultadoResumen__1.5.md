@@ -766,11 +766,19 @@
 - Unremarkable mediastinum -> No mediastinal widening, Normal cardiac and mediastinal silhouettes, Normal cardiomediastinal silhouette, Normal mediastinal contours, Stable cardio mediastinal silhouette, Stable mediastinal contours, Stable mediastinum, Unremarkable cardio mediastinal silhouette
 - Upper normal heart size -> Borderline enlarged heart
 - Visualized osseous structures are unremarkable -> No acute bone abnormality, No acute bony abnormalities, No acute bony findings, No acute osseous findings, No bony abnormality, Normal osseous structures, Normal skeletal structures
-### Métricas de evaluación
+### Métricas de evaluación (solo términos originales)
+
+- **Total recuperados (Test)**: 300
+- **Relevantes recuperados (Gold→Test, sin duplicados)**: 48
+- **Relevantes totales (Gold)**: 328
+- **Precisión**: 16.00%
+- **Recall**: 14.63%
+- **F Score**: 15.29%
+
+### Métricas de evaluación (con expandidos, solo para referencia)
 
 - **Total recuperados (Test expandido)**: 790
-- **Relevantes recuperados (Gold→Test)**: 0
-- **Relevantes totales (Gold expandido)**: 328
-- **Precisión**: 0.00%
-- **Recall**: 0.00%
-- **F Score**: 0.00%
+- **Relevantes totales (Gold expandido)**: 1066
+- **Precisión**: 6.08%
+- **Recall**: 4.50%
+- **F Score**: 5.17%

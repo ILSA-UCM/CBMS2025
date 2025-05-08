@@ -1,0 +1,80 @@
+Here is the grouped output for terms with similar meanings:
+
+aortic calcifications -> atherosclerotic calcifications of the aorta, vascular calcification, calcified thoracic aorta, thoracic aortic calcifications
+biapical scarring ->
+bipolar dual-chamber cardiac pacemaker ->
+calcified granuloma left upper lobe -> calcified granulomas, scattered calcified granulomas, stable left mid lung granuloma, stable small calcified granuloma left base
+calcified hilar lymph nodes ->
+central vascular prominence -> large pulmonary arteries
+chronic pleural-parenchymal scarring -> left basilar scarring, xxxx scarring in the lingula
+diffuse bilateral interstitial and alveolar opacities -> bilateral interstitial opacities, mild interstitial opacities
+elevation of the right hemidiaphragm ->
+emphysema -> hyperinflated lungs, obstructive pulmonary disease
+flattened diaphragm ->
+hyperinflated lungs -> emphysema, increased retrosternal airspace
+increased retrosternal airspace -> hyperinflated lungs
+large hiatal hernia ->
+left basilar airspace opacities -> left lower lobe air space opacity, left basilar streaky opacity
+left basilar scarring -> chronic pleural-parenchymal scarring
+left lower lobe air space opacity -> left basilar airspace opacities, left lower lobe consolidation
+mild cardiomegaly -> mildly enlarged heart, borderline enlarged heart, moderate cardiomegaly, stable cardiomegaly, cardiomegaly, enlarged heart
+mild unfolding of the thoracic aorta -> mild tortuosity of the thoracic aorta, tortuous aorta, tortuous thoracic aorta, torturous/ectatic thoracic aorta
+mildly enlarged heart -> mild cardiomegaly, borderline enlarged heart
+minimal scarring or atelectasis in the right midlung -> minimal right middle lobe atelectasis, atelectasis
+multilevel degenerative changes in the spine -> degenerative changes of the spine, degenerative changes thoracic spine, advanced degenerative changes, extensive degenerative changes of the thoracic spine, thoracic spine degenerative changes, thoracic spondylosis, moderate degenerative changes of the thoracic spine, mild degenerative changes of the thoracic spine
+obstructive pulmonary disease -> emphysema, hyperinflated lungs
+presence of stable upper abdominal midline surgical sutures ->
+right paratracheal stripe denser than normal ->
+right-sided pleural effusion ->
+scattered calcified granulomas -> calcified granulomas, calcified granuloma left upper lobe
+several small circular opacities in the right upper lung, some of which are centrally lucent ->
+thoracic spine degenerative changes -> multilevel degenerative changes in the spine, degenerative changes thoracic spine, thoracic spondylosis
+tortuous aorta -> mild unfolding of the thoracic aorta, tortuous thoracic aorta, torturous/ectatic thoracic aorta
+vague opacities in the right upper lobe ->
+vascular calcification -> aortic calcifications, atherosclerotic calcifications of the aorta
+38 mm lucency in the right humeral head with geographic 1a margins ->
+acute mild anterior deformities identified at l1-l2 ->
+advanced degenerative changes -> multilevel degenerative changes in the spine, extensive degenerative changes of the thoracic spine
+ascending aortic aneurysm ->
+atelectasis -> right lung base airspace disease and/or atelectasis, minimal right middle lobe atelectasis
+atherosclerotic calcifications of the aorta -> aortic calcifications, vascular calcification
+bilateral interstitial opacities -> diffuse bilateral interstitial and alveolar opacities
+blunted costophrenic angles ->
+borderline enlarged heart -> mild cardiomegaly, mildly enlarged heart
+calcified granulomas -> calcified granuloma left upper lobe, scattered calcified granulomas
+calcified thoracic aorta -> aortic calcifications, thoracic aortic calcifications
+cardiomegaly -> enlarged heart, mild cardiomegaly, moderate cardiomegaly
+degenerative changes of the spine -> multilevel degenerative changes in the spine
+degenerative changes thoracic spine -> thoracic spine degenerative changes
+degenerative endplate changes of the spine ->
+dense retrocardiac opacities ->
+diffuse right lower lobe airspace opacity ->
+enlarged heart -> cardiomegaly
+extensive degenerative changes of the thoracic spine -> advanced degenerative changes
+large breast mass ->
+large pulmonary arteries -> central vascular prominence
+left basilar streaky opacity -> left basilar airspace opacities
+left lower lobe consolidation -> left lower lobe air space opacity
+mild degenerative change of the thoracic spine -> mild degenerative changes of the thoracic spine
+mild degenerative changes of the thoracic spine -> multilevel degenerative changes in the spine
+mild interstitial opacities -> diffuse bilateral interstitial and alveolar opacities
+mild tortuosity of the thoracic aorta -> mild unfolding of the thoracic aorta
+minimal degenerative changes of the spine ->
+minimal right middle lobe atelectasis -> minimal scarring or atelectasis in the right midlung
+moderate cardiomegaly -> mild cardiomegaly, cardiomegaly
+moderate degenerative changes of the thoracic spine -> multilevel degenerative changes in the spine
+osteopenia ->
+retropulsion of the posterior vertebral body of l1 ->
+right lung base airspace disease and/or atelectasis -> atelectasis
+right perihilar airspace opacity ->
+stable cardiomegaly -> mild cardiomegaly, cardiomegaly
+stable degenerative changes in the spine ->
+stable left mid lung granuloma -> calcified granuloma left upper lobe
+stable small calcified granuloma left base -> calcified granuloma left upper lobe
+streaky bibasilar airspace opacities ->
+thoracic aortic calcifications -> aortic calcifications, calcified thoracic aorta
+thoracic spondylosis -> thoracic spine degenerative changes
+tortuous thoracic aorta -> tortuous aorta
+torturous/ectatic thoracic aorta -> tortuous aorta
+tracheostomy ->
+xxxx scarring in the lingula -> lingula scarring
