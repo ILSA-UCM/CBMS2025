@@ -1,0 +1,81 @@
+{
+  "aortic unfolding": [
+    "tortuous thoracic aorta"
+  ],
+  "cardiomegaly": [],
+  "fracture of distal right clavicle": [
+    "lucency in the right humeral head"
+  ],
+  "lumbar degenerative disc disease": [
+    "degenerative changes of both xxxx joints",
+    "degenerative endplate changes of the spine"
+  ],
+  "pleural effusion": [
+    "pleural_effusion",
+    "effusion"
+  ],
+  "advanced degenerative changes": [
+    "degenerative changes of both xxxx joints",
+    "degenerative endplate changes of the spine"
+  ],
+  "aortic calcifications": [
+    "atherosclerotic calcifications",
+    "thoracic aortic atherosclerotic calcifications"
+  ],
+  "arthritic changes of the spine": [
+    "lumbar degenerative disc disease",
+    "thoracic spondylosis"
+  ],
+  "atelectasis": [
+    "subsegmental atelectasis",
+    "minimal right middle lobe atelectasis"
+  ],
+  "atherosclerotic calcifications": [
+    "aortic calcifications",
+    "thoracic aortic atherosclerotic calcifications"
+  ],
+  "calcification over the anterior mediastinum": [],
+  "degenerative changes of both xxxx joints": [
+    "lumbar degenerative disc disease",
+    "degenerative endplate changes of the spine"
+  ],
+  "degenerative endplate changes of the spine": [
+    "lumbar degenerative disc disease",
+    "degenerative changes of both xxxx joints"
+  ],
+  "effusion": [
+    "pleural effusion",
+    "pleural_effusion"
+  ],
+  "emphysema": [],
+  "focal airspace disease": [],
+  "hiatal hernia": [],
+  "large breast mass": [],
+  "lucency in the right humeral head": [
+    "fracture of distal right clavicle"
+  ],
+  "minimal right middle lobe atelectasis": [
+    "atelectasis",
+    "subsegmental atelectasis"
+  ],
+  "pleural_effusion": [
+    "pleural effusion",
+    "effusion"
+  ],
+  "pneumothorax": [],
+  "subsegmental atelectasis": [
+    "atelectasis",
+    "minimal right middle lobe atelectasis"
+  ],
+  "thoracic aortic atherosclerotic calcifications": [
+    "aortic calcifications",
+    "atherosclerotic calcifications"
+  ],
+  "thoracic spondylosis": [
+    "arthritic changes of the spine"
+  ],
+  "tortuous thoracic aorta": [
+    "aortic unfolding"
+  ],
+  "unidentified calcified lymph node": []
+}
